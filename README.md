@@ -1,4 +1,4 @@
-# Welcome to the website for workouts and muscle-wise exercises!
+# Welcome to the website for workouts and overall fitness of your body
 
 This website is a comprehensive resource for people of all fitness levels, from beginners to advanced athletes. It offers a variety of features to help you create and track your workouts, including:
 

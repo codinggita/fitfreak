@@ -1,17 +1,27 @@
-# Welcome to the website for workouts and overall fitness of your body
+# Fitnesswiki
 
-This website is a comprehensive resource for people of all fitness levels, from beginners to advanced athletes. It offers a variety of features to help you create and track your workouts, including:
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
-# **Muscle groups:** 
-The website divides the body into major muscle groups, such as chest, back, shoulders, arms, legs, and core. For each muscle group, the website provides a list of exercises that target that muscle group.
+## Development server
 
-# **Exercise library:** 
-The website has a library of over 1,000 exercises, each with detailed instructions and video demonstrations. You can filter the exercises by muscle group, equipment, and difficulty level.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-# **Workout routines:** 
-The website offers a variety of workout routines, including full-body workouts, split workouts, and targeted workouts for specific muscle groups. You can also create your own custom workout routines.
+## Code scaffolding
 
-# **Progress tracking:** 
-The website allows you to track your progress over time by logging your workouts and weightlifting sets. You can also set fitness goals and track your progress towards those goals.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-We hope that you find this website helpful!
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

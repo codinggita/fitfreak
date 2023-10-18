@@ -78,3 +78,220 @@ a {
   border-top: 2px solid #929da5;
   color: #929da5;
 }
+
+/* middle section */
+
+.main-mid {
+  width: 60%;
+  height: 100%;
+  background-color: #191a1c;
+  position: fixed;
+  display: block;
+  left: 15%;
+}
+
+.main-title {
+  margin: 10px 0 0 20px;
+  font-size: 1.5rem;
+}
+
+.mid {
+  margin: 20px;
+  background-color: #1f2022;
+  border-radius: 15px;
+  height: 85%;
+}
+
+.mid-title {
+  font-size: 1.3rem;
+  padding: 10px;
+}
+
+.mid-image {
+  padding: 10px 20px 20px 20px;
+  height: 80%;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.mid-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+
+/* sidebar */
+
+.side-main {
+  margin: 20px;
+  height: 100%;
+  background-color: #1f2022;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+.sidebar {
+  width: 25%;
+  height: 95%;
+  position: fixed;
+  left: 75%;
+  background-color: #191a1c;
+}
+
+.side-title {
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+.side-main select {
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  color: #929da5;
+  background-color: #191a1c;
+  height: 35px;
+}
+
+.side-categories {
+  padding: 12px;
+}
+
+.side-muscle {
+  padding: 12px;
+}
+
+.side-search {
+  display: flex;
+  padding: 12px;
+}
+.side-search input {
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  height: 35px;
+  color: #929da5;
+  background-color: #191a1c;
+}
+
+.side-section {
+  height: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  display: block;
+}
+.section-title {
+  border-top: 1px solid #929da5;
+  font-size: 0.8rem;
+  padding: 12px;
+}
+
+.side-exercise,
+.side-exercise2,
+.side-exercise3,
+.side-exercise4,
+.side-exercise5,
+.side-exercise6,
+.side-exercise7 {
+  display: flex;
+  padding: 12px;
+}
+
+.ex-image img {
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  padding-right: 5px;
+}
+
+.ex-muscle {
+  font-size: 0.9rem;
+  color: #929da5;
+}
+
+/* after select exercise */
+
+.main-mid2,
+.main-mid3,
+.main-mid4,
+.main-mid5,
+.main-mid8,
+.main-mid6,
+.main-mid7 {
+  width: 60%;
+  height: 100%;
+  background-color: #191a1c;
+  position: fixed;
+  display: none;
+  left: 15%;
+}
+
+.mid2-title,
+.mid3-title,
+.mid4-title,
+.mid5-title,
+.mid6-title,
+.mid7-title,
+.mid8-title {
+  margin: 10px 0 0 20px;
+  font-size: 1.5rem;
+}
+
+.mid-image2,
+.mid-image3,
+.mid-image4,
+.mid-image5,
+.mid-image6,
+.mid-image7,
+.mid-image8 {
+  padding: 10px 20px 20px 20px;
+  width: 100%;
+}
+
+.mid-image2 video,
+.mid-image3 video,
+.mid-image4 video,
+.mid-image5 video,
+.mid-image6 video,
+.mid-image7 video,
+.mid-image8 video {
+  width: 70%;
+  border-radius: 15px;
+  margin-left: 15%;
+}
+
+.mid2-info,
+.mid3-info,
+.mid4-info,
+.mid5-info,
+.mid6-info,
+.mid7-info,
+.mid8-info {
+  width: 100%;
+  height: 30%;
+  padding: 10px;
+  border-top: 2px solid #929da5;
+}
+
+.mid2-info p,
+.mid3-info p,
+.mid4-info p,
+.mid5-info p,
+.mid6-info p,
+.mid7-info p,
+.mid8-info p {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.mid2-info span,
+.mid3-info span,
+.mid4-info span,
+.mid5-info span,
+.mid6-info span,
+.mid7-info span,
+.mid8-info span {
+  margin-left: 5px;
+  font-size: 1rem;
+  color: #929da5;
+}

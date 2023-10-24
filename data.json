@@ -1,0 +1,2802 @@
+[
+  {
+    "name": "Ab Scissors",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Ab Scissors.jpg",
+    "main": "./videos/Ab Scissors.jpg"
+  },
+  {
+    "name": "Ab Wheel",
+    "muscle": "Abdominals",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Ab Wheel.jpg",
+    "main": "./videos/Ab Wheel.mp4"
+  },
+  {
+    "name": "Bicycle Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Bicycle Crunch.jpg",
+    "main": "./videos/Bicycle Crunch.mp4"
+  },
+  {
+    "name": "Bicycle Crunch Raised Legs",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Bicycle Crunch Raised Legs.jpg",
+    "main": "./videos/Bicycle Crunch Raised Legs.mp4"
+  },
+  {
+    "name": "Cable Core Palloff Press",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Cable Core Palloff Press.jpg",
+    "main": "./videos/Cable Core Palloff Press.mp4"
+  },
+  {
+    "name": "Cable Crunch",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Cable Crunch.jpg",
+    "main": "./videos/Cable Crunch.mp4"
+  },
+  {
+    "name": "Cable Twist (Down to up)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Cable Twist (Down to up).jpg",
+    "main": "./videos/Cable Twist (Down to up).mp4"
+  },
+  {
+    "name": "Cable Twist (Up to down)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Cable Twist (Up to down).jpg",
+    "main": "./videos/Cable Twist (Up to down).mp4"
+  },
+  {
+    "name": "Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Crunch.jpg",
+    "main": "./videos/Crunch.mp4"
+  },
+  {
+    "name": "Crunch (Machine)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Crunch (Machine).jpg",
+    "main": "./videos/Crunch (Machine).mp4"
+  },
+  {
+    "name": "Crunch (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Crunch (Weighted).jpg",
+    "main": "./videos/Crunch (Weighted).jpg"
+  },
+  {
+    "name": "Dead Bug",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Dead Bug.jpg",
+    "main": "./videos/Dead Bug.jpg"
+  },
+  {
+    "name": "Decline Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Decline Crunch.jpg",
+    "main": "./videos/Decline Crunch.mp4"
+  },
+  {
+    "name": "Decline Crunch (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Decline Crunch (Weighted).jpg",
+    "main": "./videos/Decline Crunch (Weighted).mp4"
+  },
+  {
+    "name": "Elbow to Knee",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Elbow to Knee.jpg",
+    "main": "./videos/Elbow to Knee.mp4"
+  },
+  {
+    "name": "Flutter Kicks",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Flutter Kicks.jpg",
+    "main": "./videos/Flutter Kicks.mp4"
+  },
+  {
+    "name": "Front Lever Hold",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Front Lever Hold.jpg",
+    "main": "./videos/Front Lever Hold.jpg"
+  },
+  {
+    "name": "Front Lever Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Front Lever Raise.jpg",
+    "main": "./videos/Front Lever Raise.jpg"
+  },
+  {
+    "name": "Hanging Knee Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Hanging Knee Raise.jpg",
+    "main": "./videos/Hanging Knee Raise.jpg"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Hanging Leg Raise.jpg",
+    "main": "./videos/Hanging Leg Raise.mp4"
+  },
+  {
+    "name": "Heel Taps",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Heel Taps.jpg",
+    "main": "./videos/Heel Taps.jpg"
+  },
+  {
+    "name": "Hollow Rock",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Hollow Rock.jpg",
+    "main": "./videos/Hollow Rock.jpg"
+  },
+  {
+    "name": "Jack Knife (Suspension)",
+    "muscle": "Abdominals",
+    "equipment": "Suspension",
+    "isvideo": false,
+    "src": "./images/Jack Knife (Suspension).jpg",
+    "main": "./videos/Jack Knife (Suspension).jpg"
+  },
+  {
+    "name": "Jackknife Sit Up",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Jackknife Sit Up.jpg",
+    "main": "./videos/Jackknife Sit Up.jpg"
+  },
+  {
+    "name": "Knee Raise Parallel Bars",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Knee Raise Parallel Bars.jpg",
+    "main": "./videos/Knee Raise Parallel Bars.mp4"
+  },
+  {
+    "name": "L-Sit Hold",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/L-Sit Hold.jpg",
+    "main": "./videos/L-Sit Hold.mp4"
+  },
+  {
+    "name": "Landmine 180",
+    "muscle": "Abdominals",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Landmine 180.jpg",
+    "main": "./videos/Landmine 180.mp4"
+  },
+  {
+    "name": "Leg Raise Parallel Bars",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "./images/Leg Raise Parallel Bars.jpg",
+    "main": "./videos/Leg Raise Parallel Bars.jpg"
+  },
+  {
+    "name": "Lying Knee Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "./images/Lying Knee Raise.jpg",
+    "main": "./videos/Lying Knee Raise.jpg"
+  },
+  {
+    "name": "Lying Leg Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Lying Leg Raise.jpg",
+    "main": "./videos/Lying Leg Raise.mp4"
+  },
+  {
+    "name": "Oblique Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Oblique Crunch.jpg",
+    "main": "./videos/Oblique Crunch.mp4"
+  },
+  {
+    "name": "Plank",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Plank.jpg",
+    "main": "./videos/Plank.mp4"
+  },
+  {
+    "name": "Reverse Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Reverse Crunch.jpg",
+    "main": "./videos/Reverse Crunch.mp4"
+  },
+  {
+    "name": "Reverse Plank",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Reverse Plank.jpg",
+    "main": "./videos/Reverse Plank.mp4"
+  },
+  {
+    "name": "Russian Twist (Bodyweight)",
+    "muscle": "Abdominals",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Russian Twist (Bodyweight).jpg",
+    "main": "./videos/Russian Twist (Bodyweight).mp4"
+  },
+  {
+    "name": "Russian Twist (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Russian Twist (Weighted).jpg",
+    "main": "./videos/Russian Twist (Weighted).mp4"
+  },
+  {
+    "name": "Side Bend",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Side Bend.jpg",
+    "main": "./videos/Side Bend.mp4"
+  },
+  {
+    "name": "Side Bend (Dumbbell)",
+    "muscle": "Abdominals",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Side Bend (Dumbbell).jpg",
+    "main": "./videos/Side Bend (Dumbbell).mp4"
+  },
+  {
+    "name": "Side Plank",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Side Plank.jpg",
+    "main": "./videos/Side Plank.mp4"
+  },
+  {
+    "name": "Sit Up",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Sit Up.jpg",
+    "main": "./videos/Sit Up.mp4"
+  },
+  {
+    "name": "Toes to Bar",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Toes to Bar.jpg",
+    "main": "./videos/Toes to Bar.mp4"
+  },
+  {
+    "name": "V Up",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/V Up.jpg",
+    "main": "./videos/V Up.mp4"
+  },
+  {
+    "name": "Hip Abduction (Machine)",
+    "muscle": "Abductors",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Hip Abduction (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hip Adduction (Machine)",
+    "muscle": "Adductors",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Hip Adduction (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bicep Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Bicep Curl (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Drag Curl",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Drag Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "EZ Bar Biceps Curl",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/EZ Bar Biceps Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Preacher Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Preacher Curl (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Reverse Curl (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Spider Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Spider Curl (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bicep Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Bicep Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Concentration Curl",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Concentration Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Cross Body Hammer Curl",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Cross Body Hammer Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hammer Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Hammer Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Preacher Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Preacher Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Reverse Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Grip Concentration Curl",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Reverse Grip Concentration Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Incline Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Seated Incline Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Spider Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Spider Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Zottman Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Zottman Curl (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bicep Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Bicep Curl (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bicep Curl (Machine)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Bicep Curl (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hammer Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Hammer Curl (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Overhead Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Overhead Curl (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Preacher Curl (Machine)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Preacher Curl (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Reverse Curl (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rope Cable Curl",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Rope Cable Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Arm Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Single Arm Curl (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Plate Curl",
+    "muscle": "Biceps",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Plate Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hammer Curl (Band)",
+    "muscle": "Biceps",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Hammer Curl (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Back Extension (Hyperextension)",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Back Extension (Hyperextension).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Back Extension (Machine)",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Back Extension (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Back Extension (Weighted Hyperextension)",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Back Extension (Weighted Hyperextension).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rack Pull",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Rack Pull.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Superman",
+    "muscle": "Lower Back",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Superman.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Dead Hang",
+    "muscle": "Upper Back",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Dead Hang.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Scapular Pull Ups",
+    "muscle": "Upper Back",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Scapular Pull Ups.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bent Over Row (Barbell)",
+    "muscle": "Upper Back",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Bent Over Row (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Landmine Row",
+    "muscle": "Upper Back",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Landmine Row.jpg",
+    "main": "./"
+  },
+  {
+    "name": "T Bar Row",
+    "muscle": "Upper Back",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/T Bar Row.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bent Over Row (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Bent Over Row (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Supported Incline Row (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Chest Supported Incline Row (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Supported Reverse Fly (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Chest Supported Reverse Fly (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Dumbbell Row",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Dumbbell Row.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rear Delt Reverse Fly (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Rear Delt Reverse Fly (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Renegade Row (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Renegade Row (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Gorilla Row (Kettlebell)",
+    "muscle": "Upper Back",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Gorilla Row (Kettlebell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Inverted Row",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Inverted Row.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rear Delt Reverse Fly (Cable)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Rear Delt Reverse Fly (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rear Delt Reverse Fly (Machine)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Rear Delt Reverse Fly (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Grip Lat Pulldown (Cable)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Reverse Grip Lat Pulldown (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Cable Row - Bar Grip",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Cable Row - Bar Grip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Cable Row - Bar Wide Grip",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Cable Row - Bar Wide Grip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Cable Row - V Grip (Cable)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Cable Row - V Grip (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Row (Machine)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Row (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bent Over Row (Band)",
+    "muscle": "Upper Back",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Bent Over Row (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Boxing",
+    "muscle": "Cardio",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Boxing.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Running",
+    "muscle": "Cardio",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Running.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Air Bike",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Air Bike.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Battle Ropes",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Battle Ropes.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Elliptical Trainer",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Elliptical Trainer.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rowing Machine",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Rowing Machine.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Spinning",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Spinning.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Stair Machine",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Stair Machine.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Treadmill",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Treadmill.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Jump Rope",
+    "muscle": "Cardio",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Jump Rope.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Clap Push Ups",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Clap Push Ups.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Incline Push Ups",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Incline Push Ups.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kneeling Push Up",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Kneeling Push Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Plank Pushup",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Plank Pushup.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Push Up",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Push Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Push Up (Weighted)",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Push Up (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Push Up - Close Grip",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Push Up - Close Grip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Press (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Bench Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Press - Wide Grip (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Bench Press - Wide Grip (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Decline Bench Press (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Decline Bench Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Incline Bench Press (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Incline Bench Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Around The World",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Around The World.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Bench Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Fly (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Chest Fly (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Decline Bench Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Decline Bench Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Decline Chest Fly (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Decline Chest Fly (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Floor Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Floor Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hex Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Hex Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Incline Bench Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Incline Bench Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Incline Chest Fly (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Incline Chest Fly (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pullover (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Pullover (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Press (Cable)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Bench Press (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Press (Smith Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Bench Press (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Butterfly (Pec Deck)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Butterfly (Pec Deck).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Cable Fly Crossovers",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Cable Fly Crossovers.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Dip",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chest Dip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Dip (Assisted)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chest Dip (Assisted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Fly (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chest Fly (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chest Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Decline Bench Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Decline Bench Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Decline Bench Press (Smith Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Decline Bench Press (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Incline Bench Press (Smith Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Incline Bench Press (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Incline Chest Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Incline Chest Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Iso-Lateral Chest Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Iso-Lateral Chest Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Low Cable Fly Crossovers",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Low Cable Fly Crossovers.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pullover (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Pullover (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Chest Flys (Cable)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Chest Flys (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Plate Press",
+    "muscle": "Chest",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Plate Press.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Plate Squeeze (Svend Press)",
+    "muscle": "Chest",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Plate Squeeze (Svend Press).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Fly (Band)",
+    "muscle": "Chest",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Chest Fly (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Press (Band)",
+    "muscle": "Chest",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Chest Press (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Decline Push Up",
+    "muscle": "Chest",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Decline Push Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Standing Calf Raise",
+    "muscle": "Calves",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Standing Calf Raise.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Standing Calf Raise (Barbell)",
+    "muscle": "Calves",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Standing Calf Raise (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Standing Calf Raise (Dumbbell)",
+    "muscle": "Calves",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Standing Calf Raise (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Calf Extension (Machine)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Calf Extension (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Calf Press (Machine)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Calf Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Calf Raise",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Calf Raise.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Standing Calf Raise (Machine)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Standing Calf Raise (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Standing Calf Raise (Smith)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Standing Calf Raise (Smith).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Behind the Back Bicep Wrist Curl (Barbell)",
+    "muscle": "Forearms",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Behind the Back Bicep Wrist Curl (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Wrist Extension (Barbell)",
+    "muscle": "Forearms",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Seated Wrist Extension (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Palms Up Wrist Curl",
+    "muscle": "Forearms",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Seated Palms Up Wrist Curl.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Wrist Roller",
+    "muscle": "Forearms",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Wrist Roller.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bird Dog",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Bird Dog.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Glute Bridge",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Glute Bridge.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Glute Kickback on Floor",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Glute Kickback on Floor.jpg",
+    "main": "./"
+  },
+  {
+    "name": "High Knees",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/High Knees.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hip Thrust",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Hip Thrust.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Leg Hip Thrust",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Single Leg Hip Thrust.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hip Thrust (Barbell)",
+    "muscle": "Glutes",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Hip Thrust (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Frog Pumps (Dumbbell)",
+    "muscle": "Glutes",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Frog Pumps (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Leg Hip Thrust (Dumbbell)",
+    "muscle": "Glutes",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Single Leg Hip Thrust (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Cable Pull Through",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Cable Pull Through.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Glute Kickback (Machine)",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Glute Kickback (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hip Thrust (Machine)",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Hip Thrust (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Hyperextension",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Reverse Hyperextension.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Clamshell",
+    "muscle": "Glutes",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Clamshell.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Band Walks",
+    "muscle": "Glutes",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Lateral Band Walks.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Nordic Hamstrings Curls",
+    "muscle": "Hamstrings",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Nordic Hamstrings Curls.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Deadlift (Barbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Deadlift (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Deadlift (Trap bar)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Deadlift (Trap bar).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Good Morning (Barbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Good Morning (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Romanian Deadlift (Barbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Romanian Deadlift (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Straight Leg Deadlift",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Straight Leg Deadlift.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sumo Deadlift",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Sumo Deadlift.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Deadlift (Dumbbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Deadlift (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Lunge (Dumbbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Reverse Lunge (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Romanian Deadlift (Dumbbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Romanian Deadlift (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Deadlift (Smith Machine)",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Deadlift (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Glute Ham Raise",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Glute Ham Raise.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lying Leg Curl (Machine)",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Lying Leg Curl (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Leg Curl (Machine)",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Leg Curl (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Negative Pull Up",
+    "muscle": "Lats",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Negative Pull Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chin Up",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chin Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chin Up (Assisted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chin Up (Assisted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chin Up (Weighted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Chin Up (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Iso-Lateral High Row (Machine)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Iso-Lateral High Row (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Iso-Lateral Low Row",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Iso-Lateral Low Row.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Iso-Lateral Row (Machine)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Iso-Lateral Row (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kneeling Pulldown (band)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Kneeling Pulldown (band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lat Pulldown (Cable)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Lat Pulldown (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lat Pulldown (Machine)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Lat Pulldown (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lat Pulldown - Close Grip (Cable)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Lat Pulldown - Close Grip (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pull Up",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Pull Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pull Up (Assisted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Pull Up (Assisted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pull Up (Weighted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Pull Up (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Rope Straight Arm Pulldown",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Rope Straight Arm Pulldown.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Arm Lat Pulldown",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Single Arm Lat Pulldown.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sternum Pull up (Gironda)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Sternum Pull up (Gironda).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Straight Arm Lat Pulldown (Cable)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Sternum Pull up (Gironda).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Wide Pull Up",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Wide Pull Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lat Pulldown (Band)",
+    "muscle": "Lats",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Lat Pulldown (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pull Up (Band)",
+    "muscle": "Lats",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Pull Up (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Assisted Pistol Squats",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Assisted Pistol Squats.jpg",
+    "main": "./"
+  },
+  {
+    "name": "High Knee Skips",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/High Knee Skips.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Jump Squat",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Jump Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Jumping Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Jumping Lunge.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Lateral Lunge.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Lunge.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pistol Squat",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Pistol Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Reverse Lunge.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sissy Squat (Weighted)",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Sissy Squat (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat (Bodyweight)",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Squat (Bodyweight).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sumo Squat",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Sumo Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Walking Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Walking Lunge.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Box Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Box Squat (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Front Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Front Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Full Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Full Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hack Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Hack Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lunge (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Lunge (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pause Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Pause Squat (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Reverse Lunge (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Reverse Lunge (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Squat (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sumo Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Sumo Squat (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Zercher Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Zercher Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Bulgarian Split Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Curtsy Lunge (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Curtsy Lunge (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Dumbbell Step Up",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Dumbbell Step Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Goblet Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Goblet Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lunge (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Lunge (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Split Squat (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Split Squat (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Squat (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sumo Squat (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Sumo Squat (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Walking Lunge (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Walking Lunge (Dumbbell).png",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell Goblet Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell Goblet Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sumo Squat (Kettlebell)",
+    "muscle": "Quadriceps",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Sumo Squat (Kettlebell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hack Squat (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Hack Squat (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Leg Extension (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Leg Extension (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Leg Press (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Leg Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Leg Press Horizontal (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Leg Press Horizontal (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pendulum Squat (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Pendulum Squat (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Leg Press (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Single Leg Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Squat (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat (Smith Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Squat (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat (Band)",
+    "muscle": "Quadriceps",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Squat (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Box Jump",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Box Jump.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Box Jump",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Lateral Box Jump.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Step Up",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Step Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Wall Sit",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Wall Sit.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Handstand Push Up",
+    "muscle": "Shoulders",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Handstand Push Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shoulder Taps",
+    "muscle": "Shoulders",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Shoulder Taps.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Front Raise (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Front Raise (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Overhead Press (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Overhead Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Push Press",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Push Press.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Overhead Press (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Seated Overhead Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Standing Military Press (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Standing Military Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Arnold Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Arnold Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Chest Supported Y Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Chest Supported Y Raise (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Front Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Front Raise (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Lateral Raise (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Overhead Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Overhead Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Lateral Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Seated Lateral Raise (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Overhead Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Seated Overhead Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shoulder Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Shoulder Press (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Upright Row (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Upright Row (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Face Pull",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Face Pull.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Front Raise (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Front Raise (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Raise (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Lateral Raise (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Raise (Machine)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Lateral Raise (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Overhead Press (Smith Machine)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Overhead Press (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Shoulder Press (Machine)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Shoulder Press (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shoulder Press (Machine Plates)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Shoulder Press (Machine Plates).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Arm Lateral Raise (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Single Arm Lateral Raise (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Upright Row (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Upright Row (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Plate Front Raise",
+    "muscle": "Shoulders",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Plate Front Raise.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Band Pullaparts",
+    "muscle": "Shoulders",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Band Pullaparts.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Front Raise (Band)",
+    "muscle": "Shoulders",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Front Raise (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lateral Raise (Band)",
+    "muscle": "Shoulders",
+    "equipment": "Resistance Band",
+    "isvideo": true,
+    "src": "./images/Lateral Raise (Band).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Diamond Push Up",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Diamond Push Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Floor Triceps Dip",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Floor Triceps Dip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Pike Pushup",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Pike Pushup.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Ring Dips",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Ring Dips.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Press - Close Grip (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Bench Press - Close Grip (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "JM Press (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/JM Press (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Skullcrusher (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Skullcrusher (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Extension (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Triceps Extension (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Arm Tricep Extension (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Single Arm Tricep Extension (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Skullcrusher (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Skullcrusher (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Extension (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Triceps Extension (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Kickback (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Triceps Kickback (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Seated Dip Machine",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Seated Dip Machine.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Single Arm Triceps Pushdown (Cable)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Single Arm Triceps Pushdown (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Dip",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Dip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Dip (Assisted)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Dip (Assisted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Dip (Weighted)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Dip (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Extension (Cable)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Extension (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Extension (Machine)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Extension (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Kickback (Cable)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Kickback (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Pushdown",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Pushdown.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Triceps Rope Pushdown",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Triceps Rope Pushdown.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Bench Dip",
+    "muscle": "Triceps",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Bench Dip.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shrug (Barbell)",
+    "muscle": "Traps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Shrug (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shrug (Cable)",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Shrug (Cable).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shrug (Dumbbell)",
+    "muscle": "Traps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Shrug (Dumbbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shrug (Machine)",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Shrug (Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Shrug (Smith Machine)",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Shrug (Smith Machine).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Upright Row (Barbell)",
+    "muscle": "Traps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Upright Row (Barbell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lying Neck Curls (Weighted)",
+    "muscle": "Neck",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Lying Neck Curls (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Lying Neck Extension (Weighted)",
+    "muscle": "Neck",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "./images/Lying Neck Extension (Weighted).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Burpee",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Burpee.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Downward Dog",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Downward Dog.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Frog Jumps",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Frog Jumps.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Handstand Hold",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Handstand Hold.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Jumping Jack",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Jumping Jack.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Mountain Climber",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/Mountain Climber.jpg",
+    "main": "./"
+  },
+  {
+    "name": "One Arm Push Up",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "./images/One Arm Push Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Clean",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Clean.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Clean and Jerk",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Clean and Jerk.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Clean and Press",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Clean and Press.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Clean Pull",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Clean Pull.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Deadlift High Pull",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Deadlift High Pull.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hang Clean",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Hang Clean.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Hang Snatch",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Hang Snatch.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Landmine Squat and Press",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Landmine Squat and Press.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Overhead Squat",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Overhead Squat.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Power Clean",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Power Clean.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Power Snatch",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Power Snatch.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Snatch",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Snatch.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Split Jerk",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "./images/Split Jerk.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Dumbbell Snatch",
+    "muscle": "Full Body",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "./images/Dumbbell Snatch.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell Clean",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell Clean.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell High Pull",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell High Pull.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell Shoulder Press",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell Shoulder Press.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell Snatch",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell Snatch.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell Swing.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Kettlebell Turkish Get Up",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Kettlebell Turkish Get Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Thruster (Kettlebell)",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "./images/Thruster (Kettlebell).jpg",
+    "main": "./"
+  },
+  {
+    "name": "Muscle Up",
+    "muscle": "Full Body",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Muscle Up.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Squat Row",
+    "muscle": "Full Body",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "./images/Squat Row.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Ball Slams",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Ball Slams.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Farmers Walk",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Farmers Walk.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Sled Push",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Sled Push.jpg",
+    "main": "./"
+  },
+  {
+    "name": "Wall Ball",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "./images/Wall Ball.jpg",
+    "main": "./"
+  }
+]

@@ -95,14 +95,16 @@ a {
   font-size: 1.5rem;
 }
 
-.mid {
+.mid,
+.mid2 {
   margin: 20px;
   background-color: #1f2022;
   border-radius: 15px;
   height: 85%;
 }
 
-.mid-title {
+.mid-title,
+.mid-title2 {
   font-size: 1.3rem;
   padding: 10px;
 }
@@ -185,14 +187,11 @@ a {
   font-size: 0.8rem;
   padding: 12px;
 }
+.section-title p {
+  margin: 0;
+}
 
-.side-exercise,
-.side-exercise2,
-.side-exercise3,
-.side-exercise4,
-.side-exercise5,
-.side-exercise6,
-.side-exercise7 {
+.side-exercise {
   display: flex;
   padding: 12px;
 }
@@ -201,7 +200,7 @@ a {
   width: 60px;
   height: 60px;
   border-radius: 100px;
-  padding-right: 5px;
+  margin: 8px;
 }
 
 .ex-muscle {

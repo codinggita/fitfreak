@@ -18,7 +18,6 @@
       referrerpolicy="no-referrer"
     />
     <title>Fitwiki</title>
-    <script src="./index.js"></script>
   </head>
 
   <body>
@@ -76,157 +75,49 @@
       </div>
       <div class="main-mid2">
         <div class="mid2-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source src="./videos/00251201-Barbell-Bench-Press_Chest.mp4" />
-            </video>
-          </div>
-          <div class="mid2-info">
-            <p>Equipment:<span>barbell</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>Triceps,Shoulders</span></p>
-          </div>
-        </div>
-      </div>
-      <div class="main-mid3">
-        <div class="mid3-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle2">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source src="./videos/02891201-Dumbbell-Bench-Press_Chest.mp4" />
-            </video>
-          </div>
-          <div class="mid3-info">
-            <p>Equipment:<span>Dumbbell</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>Triceps</span></p>
-          </div>
-        </div>
-      </div>
-      <div class="main-mid4">
-        <div class="mid4-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle3">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source src="./videos/10301201-Lever-Pec-Deck-Fly_Chest.mp4" />
-            </video>
-          </div>
-          <div class="mid4-info">
-            <p>Equipment:<span>Machine</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>none</span></p>
-          </div>
-        </div>
-      </div>
-      <div class="main-mid5">
-        <div class="mid5-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle4">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source
-                src="./videos/12691201-Cable-Standing-Up-Straight-Crossovers_Chest.mp4"
-              />
-            </video>
-          </div>
-          <div class="mid5-info">
-            <p>Equipment:<span>Cables</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>Biceps,Front Delts</span></p>
-          </div>
-        </div>
-      </div>
-      <div class="main-mid6">
-        <div class="mid6-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle5">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source src="./videos/05961201-Lever-Seated-Fly_Chest.mp4" />
-            </video>
-          </div>
-          <div class="mid6-info">
-            <p>Equipment:<span>Machine</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>Biceps</span></p>
-          </div>
-        </div>
-      </div>
-      <div class="main-mid7">
-        <div class="mid7-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle6">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source src="./videos/05771201-Lever-Chest-Press_Chest.mp4" />
-            </video>
-          </div>
-          <div class="mid7-info">
-            <p>Equipment:<span>Machine</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>Triceps</span></p>
-          </div>
-        </div>
-      </div>
-      <div class="main-mid8">
-        <div class="mid8-title">Exercises</div>
-        <div class="mid">
-          <div class="mid-title" id="extitle7">name of Exercises</div>
-          <div class="mid-image2">
-            <video autoplay loop controls>
-              <source
-                src="./videos/03141201-Dumbbell-Incline-Bench-Press_Chest.mp4"
-              />
-            </video>
-          </div>
-          <div class="mid8-info">
-            <p>Equipment:<span>Dumbbell</span></p>
-            <p>Primary Muscle Group:<span>Chest</span></p>
-            <p>Secoundary Muscle Group:<span>Triceps,Front Delts</span></p>
-          </div>
-        </div>
+        <div class="mid2"></div>
       </div>
       <div class="sidebar">
         <div class="side-main">
           <div class="side-title">Library</div>
           <div class="side-categories">
-            <select name="Category" id="">
-              <option value="0">All Category</option>
-              <option value="1">strength</option>
-              <option value="2">cardio</option>
-              <option value="3">Cross-fit</option>
-              <option value="4">Calesthenics</option>
+            <select id="select-equipment">
+              <option value="All Equipment">All Equipment</option>
+              <option value="None">None</option>
+              <option value="Barbell">Barbell</option>
+              <option value="Dumbbell">Dumbbell</option>
+              <option value="Kettlebell">Kettlebell</option>
+              <option value="Machine">Machine</option>
+              <option value="Plate">Plate</option>
+              <option value="Resistance Band">Resistance Band</option>
+              <option value="Other">Other</option>
             </select>
           </div>
           <div class="side-muscle">
-            <select name="MUscle" id="select-muscle">
-              <option value="0">All Muscle</option>
-              <option value="1">Chest</option>
-              <option value="2">Abs</option>
-              <option value="3">Biceps</option>
-              <option value="4">Calves</option>
-              <option value="5">Forearms</option>
-              <option value="6">Full body</option>
-              <option value="7">Gults</option>
-              <option value="8">Hamstring</option>
-              <option value="9">Lats</option>
-              <option value="10">Lower Back</option>
-              <option value="11">Neck</option>
-              <option value="12">Quadriceps</option>
-              <option value="13">Shoulders</option>
-              <option value="14">Traps</option>
-              <option value="15">Triceps</option>
-              <option value="16">Upper Back</option>
+            <select id="select-muscle">
+              <option value="All Muscles">All Muscles</option>
+              <option value="Abdominals">Abdominals</option>
+              <option value="Abductors">Abductors</option>
+              <option value="Adductors">Adductors</option>
+              <option value="Biceps">Biceps</option>
+              <option value="Lower Back">Lower Back</option>
+              <option value="Upper Back">Upper Back</option>
+              <option value="Cardio">Cardio</option>
+              <option value="Chest">Chest</option>
+              <option value="Calves">Calves</option>
+              <option value="Forearms">Forearms</option>
+              <option value="Glutes">Glutes</option>
+              <option value="Hamstrings">Hamstrings</option>
+              <option value="Lats">Lats</option>
+              <option value="Quadriceps">Quadriceps</option>
+              <option value="Shoulders">Shoulders</option>
+              <option value="Triceps">Triceps</option>
+              <option value="Traps">Traps</option>
+              <option value="Neck">Neck</option>
+              <option value="Full Body">Full Body</option>
             </select>
           </div>
-          <div class="side-search tcolor">
-            <input type="text" placeholder=" Search" />
-          </div>
-          <div class="section-title tcolor">Popular Exercises</div>
+          <div class="section-title tcolor"></div>
           <div class="side-section">
             <div class="side-exercise">
               <div class="ex-image">
@@ -237,65 +128,10 @@
                 <div class="ex-muscle">Chest</div>
               </div>
             </div>
-            <div class="side-exercise2">
-              <div class="ex-image">
-                <img src="./images/Bench Press (Dumbbell).jpg" alt="" />
-              </div>
-              <div class="ex">
-                <div class="ex-name" id="exname2">Bench Press (Dumbbell)</div>
-                <div class="ex-muscle">Chest</div>
-              </div>
-            </div>
-            <div class="side-exercise3">
-              <div class="ex-image">
-                <img src="./images/Butterfly (Pec Deck).jpg" alt="" />
-              </div>
-              <div class="ex">
-                <div class="ex-name" id="exname3">Butterfly (Pec Deck)</div>
-                <div class="ex-muscle">Chest</div>
-              </div>
-            </div>
-            <div class="side-exercise4">
-              <div class="ex-image">
-                <img src="./images/Cable Fly Crossovers.jpg" alt="" />
-              </div>
-              <div class="ex">
-                <div class="ex-name" id="exname4">Cable Fly Crossovers</div>
-                <div class="ex-muscle">Chest</div>
-              </div>
-            </div>
-            <div class="side-exercise5">
-              <div class="ex-image">
-                <img src="./images/Chest Fly (Machine).jpg" alt="" />
-              </div>
-              <div class="ex">
-                <div class="ex-name" id="exname5">Chest Fly (Machine)</div>
-                <div class="ex-muscle">Chest</div>
-              </div>
-            </div>
-            <div class="side-exercise6">
-              <div class="ex-image">
-                <img src="./images/Chest Press (machine).jpg" alt="" />
-              </div>
-              <div class="ex">
-                <div class="ex-name" id="exname6">Chest Press (machine)</div>
-                <div class="ex-muscle">Chest</div>
-              </div>
-            </div>
-            <div class="side-exercise7">
-              <div class="ex-image">
-                <img src="./images/Incline Bench Press (Dumbbell).jpg" alt="" />
-              </div>
-              <div class="ex">
-                <div class="ex-name" id="exname7">
-                  Incline Bench Press (Dumbbell)
-                </div>
-                <div class="ex-muscle">Chest</div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
     </div>
+    <script src="./index.js"></script>
   </body>
 </html>

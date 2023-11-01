@@ -4,7 +4,7 @@
 }
 
 a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .main {
@@ -38,8 +38,22 @@ a {
 
 .logo {
   margin: 0px 5px 0px 0px;
-  width: 64px;
-  height: 64px;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.logo img {
+  width: 100%;
+  height: 100%;
+}
+.logo1 {
+  margin: 0px 5px 0px 0px;
+  width: 80px;
+  height: 80px;
+}
+.logo1 img {
+  width: 100%;
+  height: 100%;
 }
 
 .logo-name span {
@@ -125,7 +139,7 @@ a {
 /* sidebar */
 
 .side-main {
-  margin: 20px;
+  margin: 20px 20px 20px 0;
   height: 100%;
   background-color: #1f2022;
   display: flex;
@@ -142,8 +156,14 @@ a {
 }
 
 .side-title {
+  display: flex;
+  justify-content: space-between;
   padding: 10px;
   font-size: 1.2rem;
+}
+
+#sideclose {
+  display: none;
 }
 
 .side-main select {
@@ -197,8 +217,8 @@ a {
 }
 
 .ex-image img {
-  width: 60px;
-  height: 60px;
+  width: 3rem;
+  height: 3rem;
   border-radius: 100px;
   margin: 8px;
 }
@@ -210,13 +230,7 @@ a {
 
 /* after select exercise */
 
-.main-mid2,
-.main-mid3,
-.main-mid4,
-.main-mid5,
-.main-mid8,
-.main-mid6,
-.main-mid7 {
+.main-mid2 {
   width: 60%;
   height: 100%;
   background-color: #191a1c;
@@ -225,72 +239,189 @@ a {
   left: 15%;
 }
 
-.mid2-title,
-.mid3-title,
-.mid4-title,
-.mid5-title,
-.mid6-title,
-.mid7-title,
-.mid8-title {
+.mid2-title {
   margin: 10px 0 0 20px;
   font-size: 1.5rem;
 }
 
-.mid-image2,
-.mid-image3,
-.mid-image4,
-.mid-image5,
-.mid-image6,
-.mid-image7,
-.mid-image8 {
+.mid-image2 {
   padding: 10px 20px 20px 20px;
+  display: flex;
+  justify-content: center;
   width: 100%;
 }
 
-.mid-image2 video,
-.mid-image3 video,
-.mid-image4 video,
-.mid-image5 video,
-.mid-image6 video,
-.mid-image7 video,
-.mid-image8 video {
-  width: 70%;
+.mid-image2 video {
+  width: 90%;
   border-radius: 15px;
-  margin-left: 15%;
+}
+.mid-image2 img {
+  width: 90%;
+  border-radius: 15px;
 }
 
-.mid2-info,
-.mid3-info,
-.mid4-info,
-.mid5-info,
-.mid6-info,
-.mid7-info,
-.mid8-info {
+.mid2-info {
   width: 100%;
   height: 30%;
   padding: 10px;
   border-top: 2px solid #929da5;
 }
 
-.mid2-info p,
-.mid3-info p,
-.mid4-info p,
-.mid5-info p,
-.mid6-info p,
-.mid7-info p,
-.mid8-info p {
+.mid2-info p {
   margin: 0;
   font-size: 1.1rem;
 }
 
-.mid2-info span,
-.mid3-info span,
-.mid4-info span,
-.mid5-info span,
-.mid6-info span,
-.mid7-info span,
-.mid8-info span {
+.mid2-info span {
   margin-left: 5px;
   font-size: 1rem;
   color: #929da5;
+}
+
+/* responsive website */
+
+/* phone */
+
+.res-sidenav {
+  height: 50px;
+  background-color: #1f2022;
+  display: none;
+}
+.rev-logo {
+  width: 4rem;
+  height: 100%;
+  background-color: transparent;
+}
+.rev-logo img {
+  width: 50px;
+}
+.rev-button {
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 100%;
+}
+.rev-title {
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+}
+
+.sidebar-button {
+  width: 100%;
+  height: 4%;
+  display: none;
+  margin: 20px 10% 0px 10%;
+}
+
+.sbtn {
+  width: 80%;
+  height: 100%;
+  background-color: rgb(18, 67, 228);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+@media screen and (min-width: 850px) {
+  .sidenav {
+    display: block !important;
+  }
+  .sidebar {
+    display: block !important;
+  }
+  .sidebar-button {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  html {
+    font-size: 0.8rem;
+  }
+
+  .res-sidenav {
+    display: block;
+    display: flex;
+    justify-content: space-between;
+  }
+  .sidenav {
+    height: 100%;
+    width: 70%;
+    display: none;
+  }
+
+  .side-main {
+    margin: 0;
+    height: 100%;
+    background-color: #1f2022;
+  }
+  .side-exercise {
+    padding: 5px;
+  }
+  .sidebar {
+    border-radius: 15px;
+    border: #929da5 solid 2px;
+    display: none;
+    width: 90%;
+    height: 90%;
+    position: fixed;
+    left: 5%;
+    margin: 20px 0 0 0;
+  }
+  #sideclose {
+    display: block;
+  }
+  .main-title {
+    display: none;
+  }
+  .main-mid,
+  .main-mid2 {
+    width: 100%;
+    left: 0;
+  }
+  .mid-image2 video {
+    width: 100%;
+    border-radius: 15px;
+    margin-left: 0;
+  }
+  .mid2-info {
+    font-size: 1rem;
+  }
+  .sidebar-button {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 850px) and (min-width: 550px) {
+  html {
+    font-size: 0.8rem;
+  }
+  .sidebar-button {
+    display: none !important;
+  }
+  .res-sidenav {
+    display: block;
+    display: flex;
+    justify-content: space-between;
+  }
+  .sidenav {
+    height: 100%;
+    width: 70%;
+    display: none;
+  }
+  .sidebar {
+    width: 30%;
+    left: 70%;
+    display: block !important;
+  }
+
+  .main-mid,
+  .main-mid2 {
+    width: 70%;
+    left: 0;
+  }
 }

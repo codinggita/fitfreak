@@ -22,32 +22,52 @@
 
   <body>
     <div class="main">
+      <div class="res-sidenav" id="res">
+        <div class="rev-logo">
+          <img src="./images/logo.png" alt="" />
+        </div>
+        <div class="rev-title"><span>Exercises</span></div>
+        <div class="rev-button">
+          <i class="fa-solid fa-bars" id="open" style="color: #929da5"></i>
+          <i
+            class="fa-solid fa-xmark"
+            id="close"
+            style="color: #929da5; display: none"
+          ></i>
+        </div>
+      </div>
       <div class="sidenav">
         <div class="nav-logo">
           <div class="logo">
-            <img src="./images/logo.png" alt="" />
+            <img src="./images/logo1.png" alt="" />
           </div>
-          <div class="logo-name">
-            <span>FitFreak</span>
+          <div class="logo1">
+            <img src="./images/logo.png" alt="" />
           </div>
         </div>
         <div class="nav-section">
           <div class="nav-section1">
-            <div class="nav-exercises tcolor">
-              <i
-                class="fa-solid fa-dumbbell"
-                style="color: #929da5; padding: 5px 5px 0 0"
-              ></i>
-              <span>Exercises</span>
-            </div>
-            <div class="nav-routines tcolor">
-              <i class="fa-solid fa-table-list" style="color: #929da5"></i>
-              <span>Routines</span>
-            </div>
-            <div class="nav-calculators tcolor">
-              <i class="fa-solid fa-calculator" style="color: #929da5"></i>
-              <span>Calculators</span>
-            </div>
+            <a href="./index.html">
+              <div class="nav-exercises tcolor">
+                <i
+                  class="fa-solid fa-dumbbell"
+                  style="color: #929da5; padding: 5px 5px 0 0"
+                ></i>
+                <span>Exercises</span>
+              </div>
+            </a>
+            <a href="./routines.html">
+              <div class="nav-routines tcolor">
+                <i class="fa-solid fa-table-list" style="color: #929da5"></i>
+                <span>Routines</span>
+              </div>
+            </a>
+            <a href="./calculators.html">
+              <div class="nav-calculators tcolor">
+                <i class="fa-solid fa-calculator" style="color: #929da5"></i>
+                <span>Calculators</span>
+              </div>
+            </a>
             <div class="nav-blogs tcolor">
               <i class="fa-solid fa-blog" style="color: #929da5"></i>
               <span>Blogs</span>
@@ -64,6 +84,9 @@
           </div>
         </div>
       </div>
+      <div class="sidebar-button">
+        <div class="sbtn">Select Exercise</div>
+      </div>
       <div class="main-mid">
         <div class="main-title">Exercises</div>
         <div class="mid">
@@ -74,12 +97,21 @@
         </div>
       </div>
       <div class="main-mid2">
-        <div class="mid2-title">Exercises</div>
+        <div class="main-title">Exercises</div>
         <div class="mid2"></div>
       </div>
       <div class="sidebar">
         <div class="side-main">
-          <div class="side-title">Library</div>
+          <div class="side-title">
+            <span>Library</span>
+            <span
+              ><i
+                class="fa-solid fa-xmark"
+                id="sideclose"
+                style="color: #929da5"
+              ></i
+            ></span>
+          </div>
           <div class="side-categories">
             <select id="select-equipment">
               <option value="All Equipment">All Equipment</option>

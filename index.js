@@ -14,7 +14,6 @@ const mid2 = document.querySelector(".mid2");
 // async function searchex() {
 //   response = await fetch(url);
 //   data = await response.json();
-//   list();
 // }
 
 fetch("./data.json")
@@ -22,15 +21,13 @@ fetch("./data.json")
   .then((d) => {
     // You can access the fetched data here
     data = d;
-    console.log(data);
     // Do further processing with the data
   });
 
 function list() {
   var flag = 0;
-  console.log(select_muscle.value);
-  console.log(select_equipment.value);
   for (index in data) {
+    console.log("hi");
     if (
       select_equipment.value == "All Equipment" &&
       select_muscle.value == "All Muscles"
@@ -153,4 +150,65 @@ select_muscle.addEventListener("change", function () {
 select_equipment.addEventListener("change", function () {
   sidesection.innerHTML = "";
   list();
+});
+
+// function for responsive page
+
+const button = document.querySelector(".rev-button");
+const nav = document.querySelector(".sidenav");
+const revnav = document.getElementById("res");
+const open = document.getElementById("open");
+const close = document.getElementById("close");
+
+var count = 0;
+
+button.addEventListener("click", () => {
+  if (count % 2 == 0) {
+    nav.style.display = "block";
+    revnav.style.backgroundColor = "transparent";
+    open.style.display = "none";
+    close.style.display = "block";
+    count++;
+  } else {
+    nav.style.display = "none";
+    revnav.style.backgroundColor = "transparent";
+    open.style.display = "block";
+    close.style.display = "none";
+    count++;
+  }
+});
+
+const btn = document.querySelector(".sidebar-button");
+const sidebar = document.querySelector(".sidebar");
+const sectionside = document.querySelector(".side-section");
+const sideclose = document.getElementById("sideclose");
+const ssection = document.querySelector(".side-section");
+
+function toggleMenu() {
+  sidebar.style.display = sidebar.style.display === "block" ? "none" : "block";
+}
+
+ssection.addEventListener("click", function () {
+  sidebar.style.display = "none";
+  btn.style.display = "block";
+});
+
+sideclose.addEventListener("click", function () {
+  sidebar.style.display = "none";
+  btn.style.display = "block";
+});
+
+// Event listener for the button click
+btn.addEventListener("click", function (event) {
+  event.stopPropagation(); // Prevent click event from reaching document
+  toggleMenu();
+  btn.style.display = "none";
+});
+
+// Event listener for clicks outside the sidebar
+document.addEventListener("click", function (event) {
+  if (event.target !== btn && !sidebar.contains(event.target)) {
+    sidebar.style.display = "none";
+    btn.style.display = "block";
+  }
 });

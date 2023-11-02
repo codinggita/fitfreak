@@ -1,5 +1,3 @@
-const url = `./data.json`;
-
 var response;
 var data;
 
@@ -16,7 +14,7 @@ const mid2 = document.querySelector(".mid2");
 //   data = await response.json();
 // }
 
-fetch("./data.json")
+fetch("./final.json")
   .then((response) => response.json())
   .then((d) => {
     // You can access the fetched data here

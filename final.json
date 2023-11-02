@@ -1,0 +1,2794 @@
+[
+  {
+    "name": "Ab Scissors",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698872289/ykvruu2czaijhjlhgiez.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698872290/jbncloxy6uqasug3zcra.jpg"
+  },
+  {
+    "name": "Ab Wheel",
+    "muscle": "Abdominals",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/tpt8a50onxep2q6pwlh4.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/j9gmegzrf9nfpraksrgk.mp4"
+  },
+  {
+    "name": "Bicycle Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/hg6uacxt48ch13s9oolm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905730/dhxqrkq2uukjqfm4dd0i.mp4"
+  },
+  {
+    "name": "Bicycle Crunch Raised Legs",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/u8tcqqw31xdrnty2w2xc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905732/e4py3ow9ieyzleu9s2hf.mp4"
+  },
+  {
+    "name": "Cable Core Palloff Press",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nn6xrantaqigaoqzonww.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/oucjvrkiba78vpaudehp.mp4"
+  },
+  {
+    "name": "Cable Crunch",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/dv8o4lzqyyylwdvproyu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905729/aha1cxrm5qsycxcpbljd.mp4"
+  },
+  {
+    "name": "Cable Twist (Down to up)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/x51pofznamt8ltzfsxtz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/kaoto6cs93oghor71vwe.mp4"
+  },
+  {
+    "name": "Cable Twist (Up to down)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/g7jkt4stgytc7pet0rsl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/nf9ukluq8axd3t8qvtzn.mp4"
+  },
+  {
+    "name": "Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/hgx0ygr4di10fua2zgzi.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905729/wjds77cawxoekyu8z859.mp4"
+  },
+  {
+    "name": "Crunch (Machine)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/r8eibbzg6robjemibhfm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/dxj25t1pi1bafvts0eda.mp4"
+  },
+  {
+    "name": "Crunch (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/omzmkrr2klv6wa7iebku.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905712/pljqtjauh1gwcs3jwjv5.jpg"
+  },
+  {
+    "name": "Dead Bug",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/rkzyhf0bph27zanyenoh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nbclrxnjtkm20yxpxufr.jpg"
+  },
+  {
+    "name": "Decline Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/zwtqhvsrpepssztvxdpl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905724/jp73jpardlx1ljedzepv.mp4"
+  },
+  {
+    "name": "Decline Crunch (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/fpkzau71am9k2jwcuela.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905729/vabkhwh1maxka883te45.mp4"
+  },
+  {
+    "name": "Elbow to Knee",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/lg7pzrpmjkjnbj29srft.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/fmriko2rkw1t9nyf9xws.mp4"
+  },
+  {
+    "name": "Flutter Kicks",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/qc5hhsskynzz2blbxxfe.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/raqloipr0nu780alaibv.mp4"
+  },
+  {
+    "name": "Front Lever Hold",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/mc9cunwgwtwsdohfdnjt.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905720/sv7u9qpxi9hvagef0rnc.jpg"
+  },
+  {
+    "name": "Front Lever Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/bpbxwdyumq0wvommvyun.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905718/a4luklcevx22k17utfm7.jpg"
+  },
+  {
+    "name": "Hanging Knee Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nicsi0bvrdkhxuhxjmj1.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905713/jtwlb5obmvzhlmnnl5ad.jpg"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/bst9o3y6tiq8yuwzy8f4.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905728/hhkb4xhqlnodutqansvm.mp4"
+  },
+  {
+    "name": "Heel Taps",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/q7ykzg6crczqmfdy7ady.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905713/xwij5eqtbdochgtwtizq.jpg"
+  },
+  {
+    "name": "Hollow Rock",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/ojral7ab4fwdn8vwoyad.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905712/ec7ybi4wmzc5c5ezunvx.jpg"
+  },
+  {
+    "name": "Jack Knife (Suspension)",
+    "muscle": "Abdominals",
+    "equipment": "Suspension",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/ocxxf05j6muutfavg4vj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905712/t6dqmk3w2bwejngm0bim.jpg"
+  },
+  {
+    "name": "Jackknife Sit Up",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/aoncpbwcbo4namlgtqih.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905713/xvzb4ocfcvtdxhd8akm0.jpg"
+  },
+  {
+    "name": "Knee Raise Parallel Bars",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/sqa4wyewvee44lgnt8al.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905724/qck6ymickeeugjdhcrht.mp4"
+  },
+  {
+    "name": "L-Sit Hold",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/yswyxa4ryxmvwnroowjn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905725/bbpnrz3mfnkywffayvpu.mp4"
+  },
+  {
+    "name": "Landmine 180",
+    "muscle": "Abdominals",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/ew8frkrpffqcu8lusl66.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905723/fxmf7ejsy5dd6xl89tfj.mp4"
+  },
+  {
+    "name": "Leg Raise Parallel Bars",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/etuceowrzylo8vbkossw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905713/tbxc91og9qimyhc2hf7k.jpg"
+  },
+  {
+    "name": "Lying Knee Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/et3wsrxpn8x9jxx9prsb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/t613mwylllnb617161hu.jpg"
+  },
+  {
+    "name": "Lying Leg Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/xlwjxhb8oubicciysvvj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/evmsofmb559lsyy71xag.mp4"
+  },
+  {
+    "name": "Oblique Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/zzn0wlsm6fffppdese0l.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/dty9poi2mwzltkm9vxuz.mp4"
+  },
+  {
+    "name": "Plank",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/a4cfpzgmeuo8vei1ut41.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905730/duacijivg6dameimqhhn.mp4"
+  },
+  {
+    "name": "Reverse Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/izbotg3n5sosq4ewanph.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/wyks798wnet0t531estc.mp4"
+  },
+  {
+    "name": "Reverse Plank",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/jim5qqbeoacsvvye7mti.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/vuldc5qvte6liwpfqpeo.mp4"
+  },
+  {
+    "name": "Russian Twist (Bodyweight)",
+    "muscle": "Abdominals",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/og6ujhqlade4x9epynxd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/mnlxtxyj8qky4ugxov3d.mp4"
+  },
+  {
+    "name": "Russian Twist (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/q1zwtzrkmuprfqf2xz5q.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/rctqh3wcumtiyhk6z0gm.mp4"
+  },
+  {
+    "name": "Side Bend",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/wrzg43pz1ynhm7hwvtmp.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/kb4evup81gko0hsbg010.mp4"
+  },
+  {
+    "name": "Side Bend (Dumbbell)",
+    "muscle": "Abdominals",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nxo6sygmldbtgfcgecyq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/nnvhtbj8guvocslrsy9b.mp4"
+  },
+  {
+    "name": "Side Plank",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/l1sl8mrawthbnvbzjtx2.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/zkaqcv686ro1wdt46aln.mp4"
+  },
+  {
+    "name": "Sit Up",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/wkq5zcmw3dfnzcqfo8od.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/h8gsu1nfa8npoijxscwg.mp4"
+  },
+  {
+    "name": "Toes to Bar",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/cynfzonytytgsm0yq45k.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905724/pk7rdsixjwxeixix0gs3.mp4"
+  },
+  {
+    "name": "V Up",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/xbyphul18xwiwycaaqml.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/nx2igcumxaeqf4bessjo.mp4"
+  },
+  {
+    "name": "Hip Abduction (Machine)",
+    "muscle": "Abductors",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nvbuylb9uq2b81wqr4et.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905728/ad4sjy2dutoakz5dkq4a.mp4"
+  },
+  {
+    "name": "Hip Adduction (Machine)",
+    "muscle": "Adductors",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/ttd2yegrhvnbd7fzlawg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/awznot7ltvgwlr3q6r8r.mp4"
+  },
+  {
+    "name": "Bicep Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/rncjoa1xl7h90rqayuok.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/rvn2yvtg12gye1pzs00z.mp4"
+  },
+  {
+    "name": "Drag Curl",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/gpiywdmhcet3flg9ody5.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957363/wbshjthkusvkoksksdty.mp4"
+  },
+  {
+    "name": "EZ Bar Biceps Curl",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/u3ofd834dwgc4lra0vd9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957362/vstynx2igpl1nxy8w685.mp4"
+  },
+  {
+    "name": "Preacher Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/zw48urbchvfdv984xpcx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/weicsk8dcc1d6q5u1ew2.mp4"
+  },
+  {
+    "name": "Reverse Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/weq3pzsirdvj8yaqlfwo.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957357/rhs3x3h2hrwucbhuwekv.mp4"
+  },
+  {
+    "name": "Spider Curl (Barbell)",
+    "muscle": "Biceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/wvzklelkuzfskopa85y5.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/p8shmmtydq6je6e2ikp2.mp4"
+  },
+  {
+    "name": "Bicep Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/nyv4dhmuosvzkziz4fhc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/yvhvjrj5hmnxrrwfircw.mp4"
+  },
+  {
+    "name": "Concentration Curl",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/weepo93kgyhage1s4z94.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/bne5fo95outpzisqbmhq.mp4"
+  },
+  {
+    "name": "Cross Body Hammer Curl",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/bi4muemhcg4atfxlpiz2.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/hs3jnuueetc2lc7st4af.jpg"
+  },
+  {
+    "name": "Hammer Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/aoi8177x2eqaiavqy185.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/gv2d2hhamsugj1igfvkp.mp4"
+  },
+  {
+    "name": "Preacher Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/s2teqi0uxklcnn7zhhez.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957357/jio5qjksmvlnlcqhicfn.mp4"
+  },
+  {
+    "name": "Reverse Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/o1p6chsgcgar36nmexnq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/nnt5elyqhqqmcsqcldl3.mp4"
+  },
+  {
+    "name": "Reverse Grip Concentration Curl",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/lpp3nzxfdfoyngz6rqas.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/pnhlfd5j1rws592ck5md.jpg"
+  },
+  {
+    "name": "Seated Incline Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/gqmhvw7vocwtrermzvjh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/cnoy9pq3kjzzh0gt6zio.mp4"
+  },
+  {
+    "name": "Spider Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/mmjllb0bc5wtqrhmiwlj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957359/yznun5omuxmfupsjt6lr.mp4"
+  },
+  {
+    "name": "Zottman Curl (Dumbbell)",
+    "muscle": "Biceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/bh3tfaiqxbfflb3t9f0y.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/zfzebg3i0o0ywr34gyjj.mp4"
+  },
+  {
+    "name": "Bicep Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/mnttvyulzq0cbtteusci.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957362/vgqaijbs01azcxfjxqz9.mp4"
+  },
+  {
+    "name": "Bicep Curl (Machine)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/ninf4ad2rimxbvlybglw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/lvqkfrcpcgtmuzls5jnf.jpg"
+  },
+  {
+    "name": "Hammer Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/iwtf3atn4fhczbvnevmq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/nqhkf9tct85lm6lvlsn0.mp4"
+  },
+  {
+    "name": "Overhead Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/proqny0ydwz3rjdiela5.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/yngw7lny6uupsezbg70y.jpg"
+  },
+  {
+    "name": "Preacher Curl (Machine)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/sbpax0lubnsaun02qsvs.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/yrazuw5no6i0zpeqmllm.mp4"
+  },
+  {
+    "name": "Reverse Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957343/ipnlumsqzklqcqk3iykn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/ejdffkxv1da8ghc2ev2c.mp4"
+  },
+  {
+    "name": "Rope Cable Curl",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/fjg2p95ogb3dzywo9lpb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/zutnwvzqlfj6u0ga4ngn.jpg"
+  },
+  {
+    "name": "Single Arm Curl (Cable)",
+    "muscle": "Biceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/vqyf57pqmueag90ljuv4.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/yohee3dxt5bsuyqyfg9t.jpg"
+  },
+  {
+    "name": "Plate Curl",
+    "muscle": "Biceps",
+    "equipment": "Plate",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/kuizk8hdpgb0ko9k9mtp.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/glbouq1gikqiaghy9cci.jpg"
+  },
+  {
+    "name": "Hammer Curl (Band)",
+    "muscle": "Biceps",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/w5addry6hsuyegggfgxg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957345/xiopncqfsztzea62672f.jpg"
+  },
+  {
+    "name": "Back Extension (Hyperextension)",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/v1t2vpi2p2xkcjvuudfa.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957359/thvlws7xrsat3xmse3yg.mp4"
+  },
+  {
+    "name": "Back Extension (Machine)",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/kt5ulfewf53pnz9zyw8u.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957357/acjkeecmne53x0ckikle.mp4"
+  },
+  {
+    "name": "Back Extension (Weighted Hyperextension)",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/xpfdn0zfbwpxsd4hzifz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/vz7sqkw5brk3atmcnyxy.jpg"
+  },
+  {
+    "name": "Rack Pull",
+    "muscle": "Lower Back",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/umpilso0mhfotbhyyqef.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/jtakngkcpdali1udgmv5.jpg"
+  },
+  {
+    "name": "Superman",
+    "muscle": "Lower Back",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/isw3kq6hxxwetvlq26n9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/u2zx4gz5forjpfsydzdn.jpg"
+  },
+  {
+    "name": "Dead Hang",
+    "muscle": "Upper Back",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/gzst1pbovz7mtkjsd0of.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957343/qyud6ejloeabsuqke0wu.jpg"
+  },
+  {
+    "name": "Scapular Pull Ups",
+    "muscle": "Upper Back",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/w4f1vpc3dnljmde5rkih.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/iiwrxhgxyawsrbmyss1p.jpg"
+  },
+  {
+    "name": "Bent Over Row (Barbell)",
+    "muscle": "Upper Back",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/snplb1gizvlrgkrmusnv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/hhbxuiolulbnacqaajxf.mp4"
+  },
+  {
+    "name": "Landmine Row",
+    "muscle": "Upper Back",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/et5d9q9axdg2sw4jw78t.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957356/xepbrfkes0athog7ejgb.mp4"
+  },
+  {
+    "name": "T Bar Row",
+    "muscle": "Upper Back",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/rguhruuihwrudthsg7yx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957363/cwtvfnfckmdibudvzggq.mp4"
+  },
+  {
+    "name": "Bent Over Row (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/uavvrpulfibp9pxbbf97.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/nlk0wott9mcry4u9a2kg.mp4"
+  },
+  {
+    "name": "Chest Supported Incline Row (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/gsf10efgxlwna4iyakw5.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/zd107lzvtsgrbn4tbhpo.mp4"
+  },
+  {
+    "name": "Chest Supported Reverse Fly (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957343/tplvnl54wdb7od3ylxh9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/yoqfoxyseydwxxa92nhd.mp4"
+  },
+  {
+    "name": "Dumbbell Row",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/gujbofwu1ftkcybfuumz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/qajgvb4d53dx0xeyt5lq.mp4"
+  },
+  {
+    "name": "Rear Delt Reverse Fly (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/ndy2yxijshxx3a6ylkbh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/aardinrkgcklzuf585gy.jpg"
+  },
+  {
+    "name": "Renegade Row (Dumbbell)",
+    "muscle": "Upper Back",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/tkrqh4ecifzg6nuv4qpm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957344/mkr1hqrfaddjqrrodgts.jpg"
+  },
+  {
+    "name": "Gorilla Row (Kettlebell)",
+    "muscle": "Upper Back",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/ergzny9pqhcnzf5xlix6.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/kpd8igl09gclxzf9yuku.mp4"
+  },
+  {
+    "name": "Inverted Row",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/slyuutrc07hjgaomgf2o.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957362/sgs2aivblio9efiwj96d.mp4"
+  },
+  {
+    "name": "Rear Delt Reverse Fly (Cable)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/oz562tfdki2lnlmlyogz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/vmoqohcvg5nhhgagyhos.jpg"
+  },
+  {
+    "name": "Rear Delt Reverse Fly (Machine)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/lvxmxzhx1yua8bzxf1qt.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957360/cjjddn7sxnrpjjh6bsd7.mp4"
+  },
+  {
+    "name": "Reverse Grip Lat Pulldown (Cable)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/nizlizfwiy56i0ucyduk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957357/j9ns03g8jilnhwainmnk.mp4"
+  },
+  {
+    "name": "Seated Cable Row - Bar Grip",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957342/qmiclipn2ge1zx0mczec.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957362/ldy3ifaenl12bta8ny9a.mp4"
+  },
+  {
+    "name": "Seated Cable Row - Bar Wide Grip",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/z0x60ezaqgtprz4ocacp.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957359/hjvhysog4caukc6jldwi.mp4"
+  },
+  {
+    "name": "Seated Cable Row - V Grip (Cable)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957343/azaryldgzxcbxipl66ak.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/emwysh7ly3jgihjjyi7p.mp4"
+  },
+  {
+    "name": "Seated Row (Machine)",
+    "muscle": "Upper Back",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/ownyqnu05xarkttd6wkw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/xxpwgarkftpopdsfi8wq.mp4"
+  },
+  {
+    "name": "Bent Over Row (Band)",
+    "muscle": "Upper Back",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/l4gxt8zdzlbglvafz1kw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957352/lyv8slxpttjby2rawh1r.jpg"
+  },
+  {
+    "name": "Boxing",
+    "muscle": "Cardio",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/pxjdvnbcl7uya7bsqzwb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957340/lbv7xhukkyuu6uehsf89.jpg"
+  },
+  {
+    "name": "Running",
+    "muscle": "Cardio",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/g4bys1uw0ccjpmyljluw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957365/bsmynvgi7ldyvlutadrl.mp4"
+  },
+  {
+    "name": "Air Bike",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957341/hetq71nyl6njxilpkrfu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957344/kyz8kyq38snpacgzvl8s.jpg"
+  },
+  {
+    "name": "Battle Ropes",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/obry63v76shtzi46afau.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/vmtblwma6fr03os3ozge.mp4"
+  },
+  {
+    "name": "Elliptical Trainer",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/gc34ug1ww8xijkc4uugc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957361/oabrzb1o1gnnqq4hbeel.mp4"
+  },
+  {
+    "name": "Rowing Machine",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/mcxulmzepgc1ieoxuu5e.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957359/qvfaxorbubi4frv3sjt4.mp4"
+  },
+  {
+    "name": "Spinning",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/zgf1smlal2bnlwzi7mec.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/myiwrpxzhtvxxd9rrmhd.mp4"
+  },
+  {
+    "name": "Stair Machine",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/erlxfjuqgbnepy4p4wmn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/ztqbq73lofyaxgnsonyc.mp4"
+  },
+  {
+    "name": "Treadmill",
+    "muscle": "Cardio",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/xw0lvt1kyum2tv4vu8ay.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957364/opws1cckcpuht4a5fzzm.mp4"
+  },
+  {
+    "name": "Jump Rope",
+    "muscle": "Cardio",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957338/amrdj5vo9fabzcjvccg0.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957339/cyongccl3axsxa8t8spe.jpg"
+  },
+  {
+    "name": "Clap Push Ups",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/q84ztrda1qiiyocn5ou3.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957650/unkh3eexb89hi0uoa5tg.jpg"
+  },
+  {
+    "name": "Incline Push Ups",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/ln2pr2js6thgpekgxu7h.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/utjxxr47sj2kaflor49c.mp4"
+  },
+  {
+    "name": "Kneeling Push Up",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/vsk9p5fxqa0rx6inn9lc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957649/i34b9ef4j3526kqxplsp.jpg"
+  },
+  {
+    "name": "Plank Pushup",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/ceg3jrmwhohtzq4hexbg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957649/jilbgvvlq2jbrjjptgnm.jpg"
+  },
+  {
+    "name": "Push Up",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/xsidiatnwdwpdpmwqfvk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/gssouss7e5ok7h80ockh.mp4"
+  },
+  {
+    "name": "Push Up (Weighted)",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/n2y0r67qibcbjbq9gsri.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957665/vhatqbzjk2qts9y9zv4i.mp4"
+  },
+  {
+    "name": "Push Up - Close Grip",
+    "muscle": "Chest",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957647/fsjrmirieclq0ujdicvd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/jrflvgt7hufqsju7l4pu.mp4"
+  },
+  {
+    "name": "Bench Press (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/nvgwzwwkdgwxrvl6bzku.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/rlijjgvv4rhvo4haez2a.mp4"
+  },
+  {
+    "name": "Bench Press - Wide Grip (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/hkmvahviwfoz7hzhpprj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957666/wssndi7ennmkskqdjvmd.mp4"
+  },
+  {
+    "name": "Decline Bench Press (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/cfdk40b8jqykupd6hpvn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957673/srrbkvu65lmkkztajkwt.mp4"
+  },
+  {
+    "name": "Incline Bench Press (Barbell)",
+    "muscle": "Chest",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/yof41dpojad9oychxaxn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957665/vhn1rohjdkxitijkmmws.mp4"
+  },
+  {
+    "name": "Around The World",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/shvbnnkj7u9gpvsjonec.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/upzu6cim2w1b4iigdwkg.mp4"
+  },
+  {
+    "name": "Bench Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/zv3vxjeduee5djzjpof9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/fjwlj4qyivvpxwabs1dr.mp4"
+  },
+  {
+    "name": "Chest Fly (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/sp0oosyyevlzjymv5euv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/lskxtehptbloeoj738v4.mp4"
+  },
+  {
+    "name": "Decline Bench Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/iliprylgzbv6dwnw0sp6.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957664/w82vvfflnnpw45fmd9vp.mp4"
+  },
+  {
+    "name": "Decline Chest Fly (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/hp9klcanxelc5p7ippvc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/evsnr4m0dknxd8hdehfq.mp4"
+  },
+  {
+    "name": "Floor Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/vami1vujvd3hy4ywgxmt.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957653/vz417vxtwl9l47kketxt.jpg"
+  },
+  {
+    "name": "Hex Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/sp6vvwqu8ci47vo8fdkk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/yn5jdiektxpt4btefcif.mp4"
+  },
+  {
+    "name": "Incline Bench Press (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/bkkfmwqotfazdgwloeth.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/ql8yfudiyyikxa8u1p4s.mp4"
+  },
+  {
+    "name": "Incline Chest Fly (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/pfayfeysmb82rcgrgvhr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/ucolvb79pftvniysuzhl.mp4"
+  },
+  {
+    "name": "Pullover (Dumbbell)",
+    "muscle": "Chest",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/hksbcdy6xoukzekxcvh8.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957665/cwwea8hcbrtp2uclvobn.mp4"
+  },
+  {
+    "name": "Bench Press (Cable)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/qcd6t5oboyvrzafyfneq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957666/tlzn8htrl4b57wvrf5dc.mp4"
+  },
+  {
+    "name": "Bench Press (Smith Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/tvnwpxviihn6mym46tgj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/pm2b5euucfaj5jfeywlp.mp4"
+  },
+  {
+    "name": "Butterfly (Pec Deck)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/fdmqfghsfaks0brgfzpl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957665/z8ylxj0t5uafdtzmiqas.mp4"
+  },
+  {
+    "name": "Cable Fly Crossovers",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/js7xpclfh2iwo5riadli.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/ud9o1sdpfbnknczpak4h.mp4"
+  },
+  {
+    "name": "Chest Dip",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/y6qagu24qhy6frgw98it.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/iozsmrrhbjwarvgakv0h.mp4"
+  },
+  {
+    "name": "Chest Dip (Assisted)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/dbkwcbrsm8p1l02mmkx9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957666/sjjbxsum7slimiuuvvgk.mp4"
+  },
+  {
+    "name": "Chest Fly (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/ald9js51zfifck1acg7x.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957667/bpablwgquumg7vd8jy1e.mp4"
+  },
+  {
+    "name": "Chest Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/thvgsmfdbzgwyvlthydw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957667/csxxx4znxyeyi8i6xfac.mp4"
+  },
+  {
+    "name": "Decline Bench Press (Smith Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/nkulbw2v6ihjxtfiock9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957666/gjof4a2kipr84vhdrap1.mp4"
+  },
+  {
+    "name": "Incline Bench Press (Smith Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/nrb76s653gvf3r9eilmd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/c2ryzw16mn1yp3gq6ayd.mp4"
+  },
+  {
+    "name": "Incline Chest Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/ueaxvdupmzouslve9lti.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957664/qwpk6in8rtyc1ixzhkxb.mp4"
+  },
+  {
+    "name": "Iso-Lateral Chest Press (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/lwh3scksrh27ccrlfoue.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957667/wb7nqbamgzbhugykwi3g.mp4"
+  },
+  {
+    "name": "Low Cable Fly Crossovers",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/edmu0esaikbsclih3sgv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/ekhp2hg4oudybs6fil9h.mp4"
+  },
+  {
+    "name": "Pullover (Machine)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957649/rhikwvxzsbups5onycq0.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957665/izmf0oqcmxwlxehaxfqx.mp4"
+  },
+  {
+    "name": "Seated Chest Flys (Cable)",
+    "muscle": "Chest",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/sun4mk0z0rni0lowi4hr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957654/zq0m2otolwyj3uupxuyi.jpg"
+  },
+  {
+    "name": "Plate Press",
+    "muscle": "Chest",
+    "equipment": "Plate",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/w4edhbl8d0amrb3yyicq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957650/wldf5rygudnpbhxanfs1.jpg"
+  },
+  {
+    "name": "Plate Squeeze (Svend Press)",
+    "muscle": "Chest",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/hbmerd5jwhymzdur3rzb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/pup1immz0tzblvtjdmmt.mp4"
+  },
+  {
+    "name": "Chest Fly (Band)",
+    "muscle": "Chest",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/mkpfrchpif4eavvwoh7l.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957650/wao8mxticvzgq0isrcma.jpg"
+  },
+  {
+    "name": "Chest Press (Band)",
+    "muscle": "Chest",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/nuemt2kpauuew3aapsfz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957650/nspkjqhljvsw6cajof9h.jpg"
+  },
+  {
+    "name": "Decline Push Up",
+    "muscle": "Chest",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/dlsbadmrhyuqwbqltodm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/jpncmp0whyhtvgpp52b1.mp4"
+  },
+  {
+    "name": "Standing Calf Raise",
+    "muscle": "Calves",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/qopdwujru8pjwayw5led.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957650/asbmlth2moeqaszmvkbu.jpg"
+  },
+  {
+    "name": "Standing Calf Raise (Barbell)",
+    "muscle": "Calves",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/wppvlaytkt5pgvqnjeux.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957650/u8zonea5ahmvmmpclpcl.jpg"
+  },
+  {
+    "name": "Standing Calf Raise (Dumbbell)",
+    "muscle": "Calves",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957647/r7x1c5gzxc1ruqqmazwr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/flfibsn1cpkhmmsmd9nm.mp4"
+  },
+  {
+    "name": "Calf Extension (Machine)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/wc56sclvtcpaoqjcoc2i.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/h6qz6wymf6tvhuknk2lk.mp4"
+  },
+  {
+    "name": "Calf Press (Machine)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/cpfthlw6dedtcnbo259w.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957663/rak8tiikditserfwtisl.mp4"
+  },
+  {
+    "name": "Seated Calf Raise",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/y0iqx1c3ibkweslktx3v.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957667/kzfdkhbr5t42verulmsu.mp4"
+  },
+  {
+    "name": "Standing Calf Raise (Machine)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/gyeq9bicvnvx4iebxwyr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957669/cdqynjkv5tw7umud2s3o.mp4"
+  },
+  {
+    "name": "Standing Calf Raise (Smith)",
+    "muscle": "Calves",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957647/gguf4yjh0vj8r21omyxt.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957668/l7ouxdwgf3unmpxzenue.mp4"
+  },
+  {
+    "name": "Behind the Back Bicep Wrist Curl (Barbell)",
+    "muscle": "Forearms",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/e9bf6bflthjcifpbl61g.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957651/xtzlwqbgsndn4kpath8o.jpg"
+  },
+  {
+    "name": "Seated Wrist Extension (Barbell)",
+    "muscle": "Forearms",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957647/ythe6ksnikc5qndoaoe7.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957667/qnu9sm5rv4wwrrrpwipn.mp4"
+  },
+  {
+    "name": "Seated Palms Up Wrist Curl",
+    "muscle": "Forearms",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957647/jkf0nnza9eutxyjtwn4w.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957649/ojhsigaizyxcthmoiupk.jpg"
+  },
+  {
+    "name": "Wrist Roller",
+    "muscle": "Forearms",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957648/zyfis1t5ghtsnclrpupm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957651/tklmux4ngkfnmsuiviui.jpg"
+  },
+  {
+    "name": "Bird Dog",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/vqbrwglizocpzyhlfh9w.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/pcbbqiiyksnobj22rj7w.jpg"
+  },
+  {
+    "name": "Glute Bridge",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/nyvkhwawhmaoiavjrqmz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/ce6kl2gsb15cmciwy7xn.jpg"
+  },
+  {
+    "name": "Glute Kickback on Floor",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/k8yao0lixajgwadfpsxw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/jeox0nutohlat7vthyrj.mp4"
+  },
+  {
+    "name": "High Knees",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/b7mqqtx5m8ufiessf2iq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957863/ona4r7niplryyhqzng0x.jpg"
+  },
+  {
+    "name": "Hip Thrust",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/mylfvzseog6ng12ctfgg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/elpnfxmahj2yhlepbpjn.jpg"
+  },
+  {
+    "name": "Single Leg Hip Thrust",
+    "muscle": "Glutes",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/ez7dvkeolnoxs4i8h3tu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/qhwwm28cclfbgy0tvld4.jpg"
+  },
+  {
+    "name": "Hip Thrust (Barbell)",
+    "muscle": "Glutes",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/x3kqeawwvz1losm4wud7.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957863/jnhm8klnlqihce26p12d.jpg"
+  },
+  {
+    "name": "Frog Pumps (Dumbbell)",
+    "muscle": "Glutes",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/uecly88jorjlrbhdn0tn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/p3ofoyu5lsbl6gasatou.jpg"
+  },
+  {
+    "name": "Single Leg Hip Thrust (Dumbbell)",
+    "muscle": "Glutes",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/snoxagv9wqigs7ntlplm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/rn3f8e5mcxqjzebwn083.jpg"
+  },
+  {
+    "name": "Cable Pull Through",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/y0oacmqsh6fm1ymr7gcf.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/pmwq7ugatdrqanuxo0lh.mp4"
+  },
+  {
+    "name": "Glute Kickback (Machine)",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/asitxgjqm9yiyvy021n1.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/pmedkudzoslpxacn2jos.mp4"
+  },
+  {
+    "name": "Hip Thrust (Machine)",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/sfjapotbkuelrhkplcfr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/hdwooujpndmev2tegjkc.mp4"
+  },
+  {
+    "name": "Reverse Hyperextension",
+    "muscle": "Glutes",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/eu4oteffmfkk4lwdmbvj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/r78wohkw98f9qpukp1cc.mp4"
+  },
+  {
+    "name": "Clamshell",
+    "muscle": "Glutes",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/oc0edtxrs2m6bgr1uemr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/gay8avuyyzoy2so0mieo.jpg"
+  },
+  {
+    "name": "Lateral Band Walks",
+    "muscle": "Glutes",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/i2lhejwzqeicvugvtepj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/xul36wukq9g2geix85pg.jpg"
+  },
+  {
+    "name": "Nordic Hamstrings Curls",
+    "muscle": "Hamstrings",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/umh4fupejuwxsjgvkvaq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957865/f9rxthc7pjuntmfbiiwu.jpg"
+  },
+  {
+    "name": "Deadlift (Barbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/cudsznfq05xzcdtzynw0.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/x5y5osdeihsbqy1vnnrl.mp4"
+  },
+  {
+    "name": "Deadlift (Trap bar)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/kcypqkumkbuwluxjwrxn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/hpfjtwcr3lsszqpdzpis.mp4"
+  },
+  {
+    "name": "Good Morning (Barbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/fhyhcwokyzxjzkkx3vmy.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/zghuguliamnlihpjcb9g.mp4"
+  },
+  {
+    "name": "Romanian Deadlift (Barbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/cuosrb9nanbrzg6jfdwl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/mwiokd7u7twfqp3s0dem.mp4"
+  },
+  {
+    "name": "Straight Leg Deadlift",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/tk0vfrricocdm0l47sze.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/hnlbu7bfr88f8hu5jtso.mp4"
+  },
+  {
+    "name": "Sumo Deadlift",
+    "muscle": "Hamstrings",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/uvw0amjzl4aoeevzhzcz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957884/vm1wtk8mumcmv1vstort.mp4"
+  },
+  {
+    "name": "Deadlift (Dumbbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/r5mtnwjobutzhqfindfu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/mwg298ll63qp4ls88qoz.mp4"
+  },
+  {
+    "name": "Reverse Lunge (Dumbbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/yxphyx0u9nk4yb9kmlhh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/jq9inqrodunnwcrh3sug.mp4"
+  },
+  {
+    "name": "Romanian Deadlift (Dumbbell)",
+    "muscle": "Hamstrings",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/nhqudq7kkbmw5y7vazvn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957883/yvc07apxc8nbtofmifor.mp4"
+  },
+  {
+    "name": "Deadlift (Smith Machine)",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/n26v80jws5rhchxuymrv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957884/gdhh1vhjsx6egayyc5vh.mp4"
+  },
+  {
+    "name": "Glute Ham Raise",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/atdyla4eyngrzio7rr1r.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/kmvm3cfgxdz2txopbiay.jpg"
+  },
+  {
+    "name": "Lying Leg Curl (Machine)",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/itvk2fe78rjx8szgvjx3.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/qd3mvq1pibgdrkjiy4a0.mp4"
+  },
+  {
+    "name": "Seated Leg Curl (Machine)",
+    "muscle": "Hamstrings",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/yemufghwc9z5e3iy1fhg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/s5myic2w0uoborh64ezx.mp4"
+  },
+  {
+    "name": "Negative Pull Up",
+    "muscle": "Lats",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/vc6t07mww3qmdok8zsxx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/hmodluglntfs3yywt5j4.mp4"
+  },
+  {
+    "name": "Chin Up",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/sm1xzrl83fcxd66p6iu7.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/bcaasefj4vesoaaahgsz.mp4"
+  },
+  {
+    "name": "Chin Up (Assisted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/wi8rb1n2uebcx99zfpjx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957859/rukwrs2cxuoz7si0s3ya.jpg"
+  },
+  {
+    "name": "Chin Up (Weighted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/nclfo0u8bixhbdbpnspp.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/bay2ndgiqip7oyrrwj9k.jpg"
+  },
+  {
+    "name": "Iso-Lateral High Row (Machine)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/jsjgnpfpwmysxcewnwnk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/le53ohkxttsuxigsqc4n.jpg"
+  },
+  {
+    "name": "Iso-Lateral Low Row",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/jpclhzf8kpnlj3hqj7me.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/nwf91eykx4f6rrbz6ka4.mp4"
+  },
+  {
+    "name": "Iso-Lateral Row (Machine)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/cdqgi6jvq4uo9wcjdz0x.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957864/leuganb6c56pqxyjteta.jpg"
+  },
+  {
+    "name": "Kneeling Pulldown (band)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/fmo2pqov1t68lf8kc4tb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/vrvigxauuflvoyvmnhal.jpg"
+  },
+  {
+    "name": "Lat Pulldown (Cable)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/qo1qslckoedum4rgfbob.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/b0fckfrlwyo82fdcverq.mp4"
+  },
+  {
+    "name": "Lat Pulldown (Machine)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/pse8ed6opppmh96eol9i.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/ehwes0krwhfrwcbfsum4.mp4"
+  },
+  {
+    "name": "Lat Pulldown - Close Grip (Cable)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/fwqvvwfhf1pfnrz1t73l.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/vpgl5uaixwobeh2slf9i.mp4"
+  },
+  {
+    "name": "Pull Up",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/xyddldcmmczs5ac2qi1a.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/axrdecoczpnxabzeuiua.mp4"
+  },
+  {
+    "name": "Pull Up (Assisted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/cz78305lv2encx7oef0p.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/tfuvrftslrceqrduafxs.mp4"
+  },
+  {
+    "name": "Pull Up (Weighted)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/vjpioxlr08urz11jfnqn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957866/phffc7rnijhapnoxknf5.jpg"
+  },
+  {
+    "name": "Rope Straight Arm Pulldown",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/xhfwebqck2aj851imw8i.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/ukiu1zyhky78u7nnfolc.mp4"
+  },
+  {
+    "name": "Single Arm Lat Pulldown",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/ddqrwpggaprpwhsoga8e.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957883/nidnt9qkttfm5tuvkoie.mp4"
+  },
+  {
+    "name": "Sternum Pull up (Gironda)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/pqf8xj4so4qbtintt7sx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957865/uutcdlisuddmvi7yjfru.jpg"
+  },
+  {
+    "name": "Straight Arm Lat Pulldown (Cable)",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/szehivec203ltwvi1taj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/tgzn5vkmokuvp6kz5apm.mp4"
+  },
+  {
+    "name": "Wide Pull Up",
+    "muscle": "Lats",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/eqdhhbelhuxlbdtvzt33.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/hi9aavyf4wzj6npoewcn.mp4"
+  },
+  {
+    "name": "Lat Pulldown (Band)",
+    "muscle": "Lats",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/b6gzv66zpuzbvrcwlzdd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957865/ik8dd5wbcb0f5xpzl0dm.jpg"
+  },
+  {
+    "name": "Pull Up (Band)",
+    "muscle": "Lats",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/pnv2hnurfjownzsj8lwr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/btsqnw6ryfgpoyojsxgc.jpg"
+  },
+  {
+    "name": "Assisted Pistol Squats",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/bliqmf1xseltvkb9wlvl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/bhldu3hoatulbtsefgwn.jpg"
+  },
+  {
+    "name": "High Knee Skips",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/x3xjld3byitgdzwr3xte.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957865/cjg2donw601rnlb5g4s9.jpg"
+  },
+  {
+    "name": "Jump Squat",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/xmh7y8l1bragbdbsoaxk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957884/rsojuxla8vwtkktq1aae.mp4"
+  },
+  {
+    "name": "Jumping Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/islemss4t73qazzhzykk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/odbeayglwfqddlfr0bnt.mp4"
+  },
+  {
+    "name": "Lateral Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/ds01kugelq3kqfcquydv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/dchr7pzg7fjtqprxr29z.jpg"
+  },
+  {
+    "name": "Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/ido4nstqcep3xgsnz3yx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/hjdr0nopnyg4r4j7qels.mp4"
+  },
+  {
+    "name": "Pistol Squat",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/pdpcahl2lf7x0moejuyf.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957859/o2datsjjf6qnbwhbv6nk.jpg"
+  },
+  {
+    "name": "Reverse Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/bwsncg99rkw19mxsbjnl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957865/futzuc5donavee98k8ab.jpg"
+  },
+  {
+    "name": "Sissy Squat (Weighted)",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/jrlykl5yg4mlkztoan6n.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/gdlv4dsxa7ypjkriq1xe.mp4"
+  },
+  {
+    "name": "Squat (Bodyweight)",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/bzry8tpylvc629rrpdtv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/stnxkdchjihsfujaxn6k.mp4"
+  },
+  {
+    "name": "Sumo Squat",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/nklru4liamuo4uhwvprg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957882/qzj9pskngrvx381hbsgs.mp4"
+  },
+  {
+    "name": "Walking Lunge",
+    "muscle": "Quadriceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/rtaptdlwfclgzneadotm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957888/bunlnb9vsdd0o6pgxf2s.mp4"
+  },
+  {
+    "name": "Box Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/yoszd4jdv9v6h0gds2cu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/pjj99ud6a9lvuuhackin.jpg"
+  },
+  {
+    "name": "Front Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/bkwoa62zsd0uigdninci.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957884/sfoiqu2medryvmfkypwq.mp4"
+  },
+  {
+    "name": "Full Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/vu4clr1ipnir2yzq4whm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/pxkhopojp3s5ymnbapva.mp4"
+  },
+  {
+    "name": "Hack Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/ogthd9pxu1jzlzbyflwt.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957883/qcxyx0qx7qoka5kzfvtb.mp4"
+  },
+  {
+    "name": "Lunge (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/fpos1l1gmutkb67jwjot.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957881/ssblt4xkbznh3piwikyp.mp4"
+  },
+  {
+    "name": "Pause Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/iwngomro39daussnvjaf.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957888/kouhx2mvqoz5nemhmiqh.mp4"
+  },
+  {
+    "name": "Reverse Lunge (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/lwgpxslo8bylalw2sieq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957868/illi2wwacvmwujdrqlgl.jpg"
+  },
+  {
+    "name": "Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/fvxdro0snedm21nirpf8.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/cfalxclw7zepmjdanp77.mp4"
+  },
+  {
+    "name": "Sumo Squat (Barbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/qknatakczlyg6qpi2f7s.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/osdbvidiikdfhhm0cmcz.mp4"
+  },
+  {
+    "name": "Zercher Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/liulxziommrvkk5fzctq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957863/omhfydqyhj8imjdqtw0i.jpg"
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/pkxw4wqvlmpzposssl7p.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957864/r4ocysjvqq8kju8akuus.jpg"
+  },
+  {
+    "name": "Curtsy Lunge (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/md2pj6s5vn3jrcsreq13.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/p4mksg62g2cjvh8exsw5.jpg"
+  },
+  {
+    "name": "Dumbbell Step Up",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/qaux2wzbvfe1ijc2hu06.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/i0lzsj60l3ajtnhrnkxe.jpg"
+  },
+  {
+    "name": "Goblet Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/egcj3pg6r1haefluf63i.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/dn50pqdkn7vhad6ekofj.mp4"
+  },
+  {
+    "name": "Lunge (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/dktsaai8yimb5t0m9upy.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/jmt2p6l3rpmrcucbxswl.mp4"
+  },
+  {
+    "name": "Split Squat (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/xca9iaol1qhlr4grriti.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957883/xiugtv7ab7wi5fmzjbnv.mp4"
+  },
+  {
+    "name": "Squat (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/urtius5yqewjphkq8exb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/fds3i4ngwih54bdsbzf9.jpg"
+  },
+  {
+    "name": "Sumo Squat (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/koledvhp5lfq3fa1lkuf.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/b07e1vei0qgmal784bbs.mp4"
+  },
+  {
+    "name": "Walking Lunge (Dumbbell)",
+    "muscle": "Quadriceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/kozmzpt6qm5vw719lu9a.png",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957888/d8gdce5gjuzio6xhmzrs.mp4"
+  },
+  {
+    "name": "Kettlebell Goblet Squat",
+    "muscle": "Quadriceps",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/uq5yim3sodjj0gxlp2ry.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/ogcn60smyyqnifedris7.jpg"
+  },
+  {
+    "name": "Sumo Squat (Kettlebell)",
+    "muscle": "Quadriceps",
+    "equipment": "Kettlebell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/s3fpvo8b3h6jtg65a9tm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/amg2qt1afzexhrs6k3hf.mp4"
+  },
+  {
+    "name": "Hack Squat (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/ksxmejmuc4krffnrstwh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/hltsqjjnski1w2sfqldu.mp4"
+  },
+  {
+    "name": "Leg Extension (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/vc1mupic6fgpq4dgdi8x.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957884/odujdwbxqcxj1n5g84oa.mp4"
+  },
+  {
+    "name": "Leg Press (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957863/yhyr2r4n17embwjjadke.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957887/dkcbvurswscowsgyugh3.mp4"
+  },
+  {
+    "name": "Leg Press Horizontal (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/nlip5aycx8og7jijsnoq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957886/fv1uj5bwpu8aeimt8cd4.mp4"
+  },
+  {
+    "name": "Pendulum Squat (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/ddtusztpumfldngxqekd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957883/vu1z62lfustwl2l06r0m.mp4"
+  },
+  {
+    "name": "Single Leg Press (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/wdeqklblkekkxrk0st0y.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957884/xit9g5q5nrwctwtfngxf.mp4"
+  },
+  {
+    "name": "Squat (Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957857/waavsviivvo8csuqduuh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957861/becjbxtt1bel35xkaxcl.jpg"
+  },
+  {
+    "name": "Squat (Smith Machine)",
+    "muscle": "Quadriceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957859/uayvlytg5ave7swejata.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698957885/tnmk6fhedvcb66o7kr3p.mp4"
+  },
+  {
+    "name": "Squat (Band)",
+    "muscle": "Quadriceps",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/dmcvbso3q4ob1pj9ptao.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957863/uxsrzdxqoiizrbikdhfi.jpg"
+  },
+  {
+    "name": "Box Jump",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/p9gpydx5k4lxnrgknk98.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957862/mxbpksmufmfmbj95rmno.jpg"
+  },
+  {
+    "name": "Lateral Box Jump",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957855/twaqetbcykuluprrydcd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957858/s7zzepnyceixz5ssojcz.jpg"
+  },
+  {
+    "name": "Step Up",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/enti9m7cbdpzzheu2hdr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957860/az2gtxnbmyrulejfx38j.jpg"
+  },
+  {
+    "name": "Wall Sit",
+    "muscle": "Quadriceps",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957856/hlqb7vbdfzksfaxpdufd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698957863/e4pnixxnjvp1gmyhonwt.jpg"
+  },
+  {
+    "name": "Handstand Push Up",
+    "muscle": "Shoulders",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/jkutk4fmg8ulfxwynae0.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958465/p342hnent37fveutnzdp.jpg"
+  },
+  {
+    "name": "Shoulder Taps",
+    "muscle": "Shoulders",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/kembbkrwjbbbmi3zcgmc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958492/xq5litwtulprwcdzpj9t.mp4"
+  },
+  {
+    "name": "Front Raise (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/wnf7qfl9l4ehpopsmthg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/eb7i9erfsvgbk0pi8ref.mp4"
+  },
+  {
+    "name": "Overhead Press (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/ipzskmfnhtkol6t241kh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958485/apoa2verdcpcfb3hrq0p.mp4"
+  },
+  {
+    "name": "Push Press",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/lauj6kwjomdzay1yhnoy.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/wj4gzvm4wgcotndxecnb.mp4"
+  },
+  {
+    "name": "Seated Overhead Press (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/ktekjoswudinis4nbhfn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958465/dkjyqqm5karwayepxktt.jpg"
+  },
+  {
+    "name": "Standing Military Press (Barbell)",
+    "muscle": "Shoulders",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/urvywpy8qe3ll2xakxgh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/fpr7wo1eetnt0c3xvjeg.mp4"
+  },
+  {
+    "name": "Arnold Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/s69thisusthnzy0n0iww.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/epk2j2b9uxi2zkvrz092.mp4"
+  },
+  {
+    "name": "Chest Supported Y Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/oqs1sflchtr3eh1l43dw.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/hlgghogxqoq7nt6ppvde.mp4"
+  },
+  {
+    "name": "Front Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/udsbza5rc2t4w50v35ls.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/dr8vo3if81vcbdnqyxse.mp4"
+  },
+  {
+    "name": "Lateral Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/flp49uuboiyfepchf7si.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/z2p4ee7npk4y9voaniig.mp4"
+  },
+  {
+    "name": "Overhead Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/fxpefy4hjhkp75mxe0i5.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/qrzns15kci10dykfafmd.mp4"
+  },
+  {
+    "name": "Seated Lateral Raise (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/anfc0be1sdk9tcvfw4cq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/lk3eqllp0pklckxmd7mi.mp4"
+  },
+  {
+    "name": "Seated Overhead Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/b7qvg6jvktwqkgnx6poi.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958484/gk1tfedjpl31wibi3uda.mp4"
+  },
+  {
+    "name": "Shoulder Press (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/hazb5ekdijwpouhadw9x.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958483/yqxggryc0yiphfk30ru4.mp4"
+  },
+  {
+    "name": "Upright Row (Dumbbell)",
+    "muscle": "Shoulders",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/xrfhugqxzshimiaj7jo7.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/oixvuq9uk0h9afu6j3nu.mp4"
+  },
+  {
+    "name": "Face Pull",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/ye9dudddjywdo3b1cvd3.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/xnyfeoprh3np5lduvk6d.jpg"
+  },
+  {
+    "name": "Front Raise (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/ppvyyhxycztkz5kwtonb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/ur1w7fzemd9p9qdbgcfw.mp4"
+  },
+  {
+    "name": "Lateral Raise (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/lp49ar9zees71zrwghqc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/hflaueedbf3rrlj9ql4d.mp4"
+  },
+  {
+    "name": "Lateral Raise (Machine)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/dopj3nxpli2xibvh0cgk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/rtkptdkvdasjxb6ca0h1.mp4"
+  },
+  {
+    "name": "Overhead Press (Smith Machine)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/goncly6i3geicljzlmsc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958484/v7zwahrcnv86iebyzatu.mp4"
+  },
+  {
+    "name": "Seated Shoulder Press (Machine)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/ycmkbhxybl2w0wp3h0ot.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/hrurfk7lakj3yjs8yxdr.mp4"
+  },
+  {
+    "name": "Shoulder Press (Machine Plates)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/gmb7qq8fpszkewpweip1.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/ewex5lqwx6oqcldrhvyj.mp4"
+  },
+  {
+    "name": "Single Arm Lateral Raise (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/igg9z76vfdykguakqtnh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958496/l1ezofa87kq7dg7st0zy.mp4"
+  },
+  {
+    "name": "Upright Row (Cable)",
+    "muscle": "Shoulders",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/dwjy39btkq4kf2i62ygc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/ykbdvyue2ldtrk1v08sr.mp4"
+  },
+  {
+    "name": "Plate Front Raise",
+    "muscle": "Shoulders",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/atvixj2mtyia5ezyzylj.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/kltilharmvazp7k6hsqz.mp4"
+  },
+  {
+    "name": "Band Pullaparts",
+    "muscle": "Shoulders",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/bcdjgn0t8yne9yra9ucd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/op9mauyzgqcf9hgg7jgo.jpg"
+  },
+  {
+    "name": "Front Raise (Band)",
+    "muscle": "Shoulders",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/wnt8gbrwjs9epiqfq89q.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/zjjn5jikdif1fycyqsrw.jpg"
+  },
+  {
+    "name": "Lateral Raise (Band)",
+    "muscle": "Shoulders",
+    "equipment": "Resistance Band",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/cebhpbr9yc22di1yqlrp.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958467/iqoh78trq3sbvdsmaiya.jpg"
+  },
+  {
+    "name": "Diamond Push Up",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/fpcvunpcwjjugeojk86s.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/sfsdtalme9m5jrlmdk8n.jpg"
+  },
+  {
+    "name": "Floor Triceps Dip",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/qwq4wr56x7zv7kpvapsh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/fsydyswiy3httg2dpuxo.mp4"
+  },
+  {
+    "name": "Pike Pushup",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/mgawzgd7tpmy8jwl9xlr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958466/ab28tddvqxczpbwf2abh.jpg"
+  },
+  {
+    "name": "Ring Dips",
+    "muscle": "Triceps",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/exhc9na9jmrmyxlhmbo8.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958466/b4wxhnj1ysv6nza9krah.jpg"
+  },
+  {
+    "name": "Bench Press - Close Grip (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/rg9e5cqgvsgkmnyfuw8y.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958485/pm4vd3dw7xilk8dpyapd.mp4"
+  },
+  {
+    "name": "JM Press (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/e5rzoylqggahofjyjtcf.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/fz5nrqkmkefsiqhq1bav.mp4"
+  },
+  {
+    "name": "Skullcrusher (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/dpgsbz1apuy5j2jwqrau.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958467/swb70rzfcl2afpre3y1h.jpg"
+  },
+  {
+    "name": "Triceps Extension (Barbell)",
+    "muscle": "Barbell",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/jpuowsitu4uziubwsten.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/uykplwbxhaldjxvliodr.mp4"
+  },
+  {
+    "name": "Single Arm Tricep Extension (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/yfvavxfb1kiulhy6gwlo.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/ye9jqdzd0hmvlexc2jds.mp4"
+  },
+  {
+    "name": "Skullcrusher (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/sodoheeeobhz8wu9cs8c.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/wkkbhbiv9xjknsletxdc.jpg"
+  },
+  {
+    "name": "Triceps Extension (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/pft15ljizl4enkwersph.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/kerjmcqebfevgvdcupug.mp4"
+  },
+  {
+    "name": "Triceps Kickback (Dumbbell)",
+    "muscle": "Triceps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/ojre4cbhwcbfhyc9xumi.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/kziphizw2g9c1z2bomrt.mp4"
+  },
+  {
+    "name": "Seated Dip Machine",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/vqrh2yre2jqmibdznxsf.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/lumq7bj4u3disgwih1ig.mp4"
+  },
+  {
+    "name": "Single Arm Triceps Pushdown (Cable)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/cmjh26tlft7ihammiaus.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/bmp9rmwy0df4wtbamd1f.mp4"
+  },
+  {
+    "name": "Triceps Dip",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/cgiior4sz2r2ek5s2ylx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/cyrd63o8mbcctuohbabf.mp4"
+  },
+  {
+    "name": "Triceps Dip (Assisted)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/llvhon0kh0lzu4lxt7fa.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/onkv7quznftnp5gv8cft.mp4"
+  },
+  {
+    "name": "Triceps Dip (Weighted)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/ihlbnbe4y7pggk9gk5c5.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/luzreen05g6cmgbfnq5t.jpg"
+  },
+  {
+    "name": "Triceps Extension (Cable)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/yyii207yoj5ykcqg0cvi.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958465/akk60vn7ym1kotfits11.jpg"
+  },
+  {
+    "name": "Triceps Extension (Machine)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958466/rp7zoknlotunxbwum7q3.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/evkobprm3kc06hg76ocm.mp4"
+  },
+  {
+    "name": "Triceps Kickback (Cable)",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/tzqikqoaetng4huyco5l.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/rhtvtwqcqcfsobtb3ilv.jpg"
+  },
+  {
+    "name": "Triceps Pushdown",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/bcvpz3d65qd83kgpq44w.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/q43kvqjhbfpdm2jenxtg.mp4"
+  },
+  {
+    "name": "Triceps Rope Pushdown",
+    "muscle": "Triceps",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/mmbovurmwruzgql1c1fg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/bc5os7wd586bfxk0t4ox.jpg"
+  },
+  {
+    "name": "Bench Dip",
+    "muscle": "Triceps",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/i4iwonff3muayklix9pg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958486/sm3fp7crgoy9rwcx0pcx.mp4"
+  },
+  {
+    "name": "Shrug (Barbell)",
+    "muscle": "Traps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/uwf3jnqhxpzilci5lgw3.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/kppzzpazxjf22n0jiczs.mp4"
+  },
+  {
+    "name": "Shrug (Cable)",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/inrzwixxk9jmrvt6ztyd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/yffb5dhmyiw4jpnppdgt.mp4"
+  },
+  {
+    "name": "Shrug (Dumbbell)",
+    "muscle": "Traps",
+    "equipment": "Dumbbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/ejgsz1uvlp1t4d2hpkwg.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/ydeiby1bvh8nyfyrdamw.mp4"
+  },
+  {
+    "name": "Shrug (Machine)",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/arvauihftaxi7aep5xjx.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/fk64wu7pcn8vcb9e9tyk.mp4"
+  },
+  {
+    "name": "Shrug (Smith Machine)",
+    "muscle": "Traps",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/wi1srouselz90ytxozce.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/nfvchrn8e4lcjmyvyayw.mp4"
+  },
+  {
+    "name": "Upright Row (Barbell)",
+    "muscle": "Traps",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/nlsqan7jq1ymqphlhyci.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958487/ftpcpxjwbzbcocp1zdwy.mp4"
+  },
+  {
+    "name": "Lying Neck Curls (Weighted)",
+    "muscle": "Neck",
+    "equipment": "Plate",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/jpcsriieesmrwpxqfta7.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958489/xjhmhr5klnmos64mivbn.mp4"
+  },
+  {
+    "name": "Lying Neck Extension (Weighted)",
+    "muscle": "Neck",
+    "equipment": "Plate",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/wtytjy3nrx9yq5xkghzc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958465/untmjgufbcafttrhov8w.jpg"
+  },
+  {
+    "name": "Burpee",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/ul15dhfpx0av0q4niy8n.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/uyijiszrsj094n5tgomb.mp4"
+  },
+  {
+    "name": "Downward Dog",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/hqlvuba0nye0nqu6r3bv.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/qklujfbjlrgye8zii8wp.jpg"
+  },
+  {
+    "name": "Frog Jumps",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/axv2qba3ch3ojdi9gqkm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958466/io4mqtumkou0w9ep7mix.jpg"
+  },
+  {
+    "name": "Handstand Hold",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/mya1ieuvfqr4uqr4rsf2.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/rgu5pkblmqcwh4cljqyx.jpg"
+  },
+  {
+    "name": "Jumping Jack",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958458/ghp7f4x9rjy4ghopmclz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958468/vxhg3mmif9ymopxdvp1r.jpg"
+  },
+  {
+    "name": "Mountain Climber",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/hfxkk5lpwo4vtdjjmewr.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/jygvtows5kgwl6ri1gwu.jpg"
+  },
+  {
+    "name": "One Arm Push Up",
+    "muscle": "Full Body",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/cjrx1z9zb01w5zuvbgiu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958488/kcdnaaziyoakod8bfwjg.mp4"
+  },
+  {
+    "name": "Clean",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/ipxuxvzot6vsase2osfc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/tfkbxsp1jaqe1ncbqpns.jpg"
+  },
+  {
+    "name": "Clean and Jerk",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/x9ppf9dcw8gskendmghb.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958490/aaqxjztuqzp3rzudnnp5.mp4"
+  },
+  {
+    "name": "Clean and Press",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958465/r6yhtcysluiyztvurger.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958490/glgstb7n7mp9cnvikszg.mp4"
+  },
+  {
+    "name": "Clean Pull",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/xqik5klpikgqe3ysa8pz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/hw9aeq5lrgrxqf1sswhw.jpg"
+  },
+  {
+    "name": "Deadlift High Pull",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/nbqrrtlxtdxafyxlvhdo.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958490/whhk0lw0txpwdw9ygicd.mp4"
+  },
+  {
+    "name": "Hang Clean",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/fxtetvjgwa8c4vkzzsc9.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/vsyzy4hiulblypgzvpgd.jpg"
+  },
+  {
+    "name": "Hang Snatch",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/gnhwsff8kslcq3dda2ww.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/m1bmv0u0bk7hcopmsomo.jpg"
+  },
+  {
+    "name": "Landmine Squat and Press",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/w1tpaja0c678mrzh0tln.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/syovcflpguqiuysp8jhi.jpg"
+  },
+  {
+    "name": "Overhead Squat",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/ifbwmg4huxaeafxip3sn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958466/o15tyzumnlwuf9klgql9.jpg"
+  },
+  {
+    "name": "Power Clean",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/r8skke2lr8rgfgfsqwvz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958490/ct6bihmluonv4qajxmox.mp4"
+  },
+  {
+    "name": "Power Snatch",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/gkruhillqkl23m4mzenu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/iltdjdc7zjnpflnsutxa.jpg"
+  },
+  {
+    "name": "Snatch",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958467/mgiwuhmdlyr72rwofh4l.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958470/zieqxz6leusyc4tiuvyh.jpg"
+  },
+  {
+    "name": "Split Jerk",
+    "muscle": "Full Body",
+    "equipment": "Barbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/yw7uqe3xojrqxfqwgpny.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/ttlo13mes3soxts5ozhz.jpg"
+  },
+  {
+    "name": "Dumbbell Snatch",
+    "muscle": "Full Body",
+    "equipment": "Dumbbell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/bjldwnwscwpjblyn3frp.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/puqjzuqs17rhaa00jamt.jpg"
+  },
+  {
+    "name": "Kettlebell Clean",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/fnvacxrsm1raqyhzenrd.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/nwkw1tl4z8b2rmyhjuaj.jpg"
+  },
+  {
+    "name": "Kettlebell High Pull",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/rvnoglctge6fqhnfl9fy.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/qg19qbyxnrcud2ugifzv.jpg"
+  },
+  {
+    "name": "Kettlebell Shoulder Press",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/rcbrpoi6uhakqkricfom.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958467/auzokwdmbfoujdlzplqt.jpg"
+  },
+  {
+    "name": "Kettlebell Snatch",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/kn27vk0kynoyvmqlgssn.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/dlajqthxjzvz9vihbyea.jpg"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/thcivypqfvivy8wtrqvq.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/qwbzhihst6zkxyzsnlbh.jpg"
+  },
+  {
+    "name": "Kettlebell Turkish Get Up",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958463/xshva4zjxvsqpberyy9t.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958466/p4dkcrfbhu6xaxfpgite.jpg"
+  },
+  {
+    "name": "Thruster (Kettlebell)",
+    "muscle": "Full Body",
+    "equipment": "Kettlebell",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/hclsvdwk0qaulglgjgly.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958468/ikbj4awc4zc2rqeoagrw.jpg"
+  },
+  {
+    "name": "Muscle Up",
+    "muscle": "Full Body",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/mm5osebvluksplqrndwi.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/e0i2kzozjxysgptgydjy.jpg"
+  },
+  {
+    "name": "Squat Row",
+    "muscle": "Full Body",
+    "equipment": "Machine",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958461/gv1va6twljrqdb0wzpym.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958464/nuz3fsax8isw6q1wxfnf.jpg"
+  },
+  {
+    "name": "Ball Slams",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/qrl4xcw0vakq6c2imh50.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/qg0usvvk3zbkfhqwmtea.jpg"
+  },
+  {
+    "name": "Farmers Walk",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/bgyv1coplfu1mbssebfk.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958483/s0mtx1ehdxcxr1amoxrq.mp4"
+  },
+  {
+    "name": "Sled Push",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958459/lurbicyskhh8fgxzwnny.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698958490/vzl4hmrz3c5lm6w2nitg.mp4"
+  },
+  {
+    "name": "Wall Ball",
+    "muscle": "Full Body",
+    "equipment": "Other",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958460/bdmitaowhoiqhbkoxhw2.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698958462/lnwbok8fvnhpvwzysdxl.jpg"
+  }
+]

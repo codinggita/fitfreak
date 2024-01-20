@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./routines.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <title>FitFreak</title>
+  </head>
+  <body>
+    <div class="main">
+      <div class="res-sidenav" id="res">
+        <div class="rev-logo">
+          <img src="./images/logo.png" alt="" />
+        </div>
+        <div class="rev-title"><span>Exercises</span></div>
+        <div class="rev-button">
+          <i class="fa-solid fa-bars" id="open" style="color: #929da5"></i>
+          <i
+            class="fa-solid fa-xmark"
+            id="close"
+            style="color: #929da5; display: none"
+          ></i>
+        </div>
+      </div>
+      <div class="sidenav">
+        <div class="nav-logo">
+          <div class="logo">
+            <img src="./images/logo1.png" alt="" />
+          </div>
+          <div class="logo1">
+            <img src="./images/logo.png" alt="" />
+          </div>
+        </div>
+        <div class="nav-section">
+          <div class="nav-section1">
+            <a href="./index.html">
+              <div class="nav-exercises tcolor">
+                <i
+                  class="fa-solid fa-dumbbell"
+                  style="color: #929da5; padding: 5px 5px 0 0"
+                ></i>
+                <span>Exercises</span>
+              </div>
+            </a>
+            <a href="./routines.html">
+              <div class="nav-routines tcolor">
+                <i class="fa-solid fa-table-list" style="color: #929da5"></i>
+                <span>Routines</span>
+              </div>
+            </a>
+            <a href="./calculators.html">
+              <div class="nav-calculators tcolor">
+                <i class="fa-solid fa-calculator" style="color: #929da5"></i>
+                <span>Calculators</span>
+              </div>
+            </a>
+            <div class="nav-blogs tcolor">
+              <i class="fa-solid fa-blog" style="color: #929da5"></i>
+              <span>Blogs</span>
+            </div>
+          </div>
+          <div class="nav-section2">
+            <div class="signin">
+              <i
+                class="fa-solid fa-circle-user"
+                style="color: #929da5; padding: 5px"
+              ></i>
+              <span>Sign In</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sidebar-button">
+        <div class="sbtn">Select Exercise</div>
+      </div>
+      <div class="routines-main-mid">
+        <div class="main-title">Routines</div>
+        <div class="mid" style="height: 88%">
+          <div class="mid-title">Your Routine</div>
+          <div class="routine-title">
+            <p class="">No Routine is selected</p>
+          </div>
+          <div class="routine-ex"></div>
+        </div>
+      </div>
+      <div class="sidebar" style="height: 95%">
+        <div class="side-main">
+          <div class="side-title">
+            <span>popular plans</span>
+          </div>
+          <div class="routines-name" id="menu">
+            <span>Classic 3 Day Split</span>
+            <ul class="list" id="ddl">
+              <li id="l1">Chest Shoulders and Triceps</li>
+              <li id="l2">Back and Biceps</li>
+              <li id="l3">Legs and Abs</li>
+            </ul>
+          </div>
+          <div class="routines-name" id="menu1">
+            <span>Full Body Split</span>
+            <ul class="list m-0 p-0" id="ddl1">
+              <li id="l4">Full body 1</li>
+              <li id="l5">Full body 2</li>
+              <li id="l6">Full body 3</li>
+            </ul>
+          </div>
+
+          <div class="routines-name" id="menu2">
+            <span>Five Day Split</span>
+            <ul class="list m-0 p-0" id="ddl2">
+              <li id="l7">Chest Massacre</li>
+              <li id="l8">Leg Shoulder Annihilation</li>
+              <li id="l9">Triceps Crusher</li>
+              <li id="l10">Beast bg-black</li>
+              <li id="l11">Core Biceps Slayer</li>
+            </ul>
+          </div>
+          <div class="routines-name" id="menu3">
+            <span>Push and Pull</span>
+            <ul class="list m-0 p-0" id="ddl3">
+              <li id="l12">Push 1</li>
+              <li id="l13">Pull 1</li>
+              <li id="l14">Push 2</li>
+              <li id="l15">Pull 2</li>
+            </ul>
+          </div>
+          <div class="routines-name" id="menu4">
+            <span>No Equipement</span>
+            <ul class="list m-0 p-0" id="ddl4">
+              <li id="l16">Home Workout</li>
+              <li id="l17">Full body</li>
+              <li id="l18">Upper(Bodyweight)</li>
+              <li id="l19">Lower(Bodyweight)</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./routines.js"></script>
+  </body>
+</html>

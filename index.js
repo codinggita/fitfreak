@@ -123,11 +123,17 @@ function changemid(ename) {
       p2.innerText = "Primary Muscle Group:";
       var s2 = document.createElement("span");
       s2.innerText = data[index].muscle;
+      var p3 = document.createElement("p");
+      p3.innerText = "Steps:";
+      var p4 = document.createElement("p");
+      p4.innerText = data[index].step;
       p1.appendChild(s1);
       p2.appendChild(s2);
       mid_image2.appendChild(im2);
       mid2_info.appendChild(p2);
       mid2_info.appendChild(p1);
+      mid2_info.appendChild(p3);
+      mid2_info.appendChild(p4);
       mid2.appendChild(mid_title);
       mid2.appendChild(mid_image2);
       mid2.appendChild(mid2_info);

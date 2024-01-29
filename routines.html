@@ -102,10 +102,17 @@
         <div class="side-main">
           <div class="side-title">
             <span>popular plans</span>
+            <span
+              ><i
+                class="fa-solid fa-xmark"
+                id="sideclose"
+                style="color: #929da5"
+              ></i
+            ></span>
           </div>
           <div class="routines-name" id="menu">
             <span>Classic 3 Day Split</span>
-            <ul class="list" id="ddl">
+            <ul class="list" onclick="toggleMenu()" id="ddl">
               <li id="l1">Chest Shoulders and Triceps</li>
               <li id="l2">Back and Biceps</li>
               <li id="l3">Legs and Abs</li>
@@ -113,7 +120,7 @@
           </div>
           <div class="routines-name" id="menu1">
             <span>Full Body Split</span>
-            <ul class="list m-0 p-0" id="ddl1">
+            <ul class="list" onclick="toggleMenu()" id="ddl1">
               <li id="l4">Full body 1</li>
               <li id="l5">Full body 2</li>
               <li id="l6">Full body 3</li>
@@ -122,7 +129,7 @@
 
           <div class="routines-name" id="menu2">
             <span>Five Day Split</span>
-            <ul class="list m-0 p-0" id="ddl2">
+            <ul class="list" onclick="toggleMenu()" id="ddl2">
               <li id="l7">Chest Massacre</li>
               <li id="l8">Leg Shoulder Annihilation</li>
               <li id="l9">Triceps Crusher</li>
@@ -132,16 +139,16 @@
           </div>
           <div class="routines-name" id="menu3">
             <span>Push and Pull</span>
-            <ul class="list m-0 p-0" id="ddl3">
+            <ul class="list" onclick="toggleMenu()" id="ddl3">
               <li id="l12">Push 1</li>
               <li id="l13">Pull 1</li>
               <li id="l14">Push 2</li>
               <li id="l15">Pull 2</li>
             </ul>
           </div>
-          <div class="routines-name" id="menu4">
+          <div class="routines-name"  id="menu4">
             <span>No Equipement</span>
-            <ul class="list m-0 p-0" id="ddl4">
+            <ul class="list" onclick="toggleMenu()" id="ddl4">
               <li id="l16">Home Workout</li>
               <li id="l17">Full body</li>
               <li id="l18">Upper(Bodyweight)</li>
@@ -151,6 +158,6 @@
         </div>
       </div>
     </div>
-    <script src="./routines.js"></script>
   </body>
+  <script src="./routines.js"></script>
 </html>

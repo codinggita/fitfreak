@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Ab Scissors",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698872289/ykvruu2czaijhjlhgiez.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698872290/jbncloxy6uqasug3zcra.jpg",
+    "step": "1. Lie on your back with your legs straight and your arms extended above your head.\n2. Lift your right leg toward the ceiling while simultaneously lifting your upper body off the ground.\n3. Lower your right leg and lift your left leg, alternating in a scissor-like motion."
+  },
+  {
+    "name": "Ab Wheel",
+    "muscle": "Abdominals",
+    "equipment": "Other",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/tpt8a50onxep2q6pwlh4.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/j9gmegzrf9nfpraksrgk.mp4",
+    "step": "1. Kneel on the floor and grip the handles of the ab wheel.\n2. Roll the wheel forward, extending your body into a straight line.\n3. Roll the wheel back toward your knees to return to the starting position."
+  },
+  {
+    "name": "Bicycle Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/hg6uacxt48ch13s9oolm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905730/dhxqrkq2uukjqfm4dd0i.mp4",
+    "step": "1. Lie on your back with your hands behind your head.\n2. Lift your legs and bend your knees to a 90-degree angle.\n3. Bring your right elbow and left knee toward each other while straightening your right leg.\n4. Repeat on the other side in a cycling motion."
+  },
+  {
+    "name": "Bicycle Crunch Raised Legs",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/u8tcqqw31xdrnty2w2xc.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905732/e4py3ow9ieyzleu9s2hf.mp4",
+    "step": "1. Lie on your back with your hands behind your head.\n2. Lift your legs and extend them straight up toward the ceiling.\n3. Perform a bicycle crunch by bringing your right elbow to your left knee while extending your right leg straight."
+  },
+  {
+    "name": "Cable Core Palloff Press",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nn6xrantaqigaoqzonww.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/oucjvrkiba78vpaudehp.mp4",
+    "step": "1. Stand sideways to a cable machine with the cable at chest height.\n2. Hold the cable handle with both hands and extend your arms in front of you.\n3. Rotate your torso away from the machine while keeping your arms extended, then return to the starting position."
+  },
+  {
+    "name": "Cable Crunch",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/dv8o4lzqyyylwdvproyu.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905729/aha1cxrm5qsycxcpbljd.mp4",
+    "step": "1. Kneel in front of a cable machine with a rope attachment overhead.\n2. Grab the rope with both hands and bring it down toward your knees by flexing your spine.\n3. Return to the starting position by extending your spine."
+  },
+  {
+    "name": "Cable Twist (Down to up)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/x51pofznamt8ltzfsxtz.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/kaoto6cs93oghor71vwe.mp4",
+    "step": "1. Stand sideways to a cable machine with the cable at chest height.\n2. Grab the cable handle with both hands and twist your torso down toward the machine.\n3. Return to the starting position by twisting your torso up and across your body."
+  },
+  {
+    "name": "Cable Twist (Up to down)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/g7jkt4stgytc7pet0rsl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/nf9ukluq8axd3t8qvtzn.mp4",
+    "step": "1. Stand sideways to a cable machine with the cable at chest height.\n2. Grab the cable handle with both hands and twist your torso up and across your body.\n3. Return to the starting position by twisting your torso down toward the machine."
+  },
+  {
+    "name": "Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/hgx0ygr4di10fua2zgzi.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905729/wjds77cawxoekyu8z859.mp4",
+    "step": "1. Lie on your back with your knees bent and feet flat on the floor.\n2. Place your hands behind your head or across your chest.\n3. Lift your head and shoulders off the ground, engaging your abdominal muscles.\n4. Lower back down to the starting position."
+  },
+  {
+    "name": "Crunch (Machine)",
+    "muscle": "Abdominals",
+    "equipment": "Machine",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/r8eibbzg6robjemibhfm.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/dxj25t1pi1bafvts0eda.mp4",
+    "step": "1. Adjust the machine settings and position yourself with the pad against your upper chest.\n2. Cross your arms over your chest or place your hands behind your head.\n3. Contract your abdominal muscles to bring your upper body towards your knees.\n4. Slowly return to the starting position."
+  },
+  {
+    "name": "Crunch (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/omzmkrr2klv6wa7iebku.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905712/pljqtjauh1gwcs3jwjv5.jpg",
+    "step": "1. Lie on your back with your knees bent and feet flat on the floor.\n2. Hold a weight plate or dumbbell against your chest.\n3. Perform a traditional crunch by lifting your head and shoulders off the ground.\n4. Lower back down to the starting position."
+  },
+  {
+    "name": "Dead Bug",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/rkzyhf0bph27zanyenoh.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nbclrxnjtkm20yxpxufr.jpg",
+    "step": "1. Lie on your back with arms extended towards the ceiling and legs lifted off the ground.\n2. Lower one leg toward the floor while simultaneously lowering the opposite arm overhead.\n3. Return to the starting position and repeat on the other side."
+  },
+  {
+    "name": "Decline Crunch",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/zwtqhvsrpepssztvxdpl.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905724/jp73jpardlx1ljedzepv.mp4",
+    "step": "1. Secure your legs at the end of a decline bench and place your hands behind your head.\n2. Lift your upper body towards your knees, engaging your abdominal muscles.\n3. Lower back down to the starting position."
+  },
+  {
+    "name": "Decline Crunch (Weighted)",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/fpkzau71am9k2jwcuela.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905729/vabkhwh1maxka883te45.mp4",
+    "step": "1. Secure your legs at the end of a decline bench and hold a weight against your chest.\n2. Lift your upper body towards your knees, engaging your abdominal muscles.\n3. Lower back down to the starting position."
+  },
+  {
+    "name": "Elbow to Knee",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/lg7pzrpmjkjnbj29srft.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905726/fmriko2rkw1t9nyf9xws.mp4",
+    "step": "1. Lie on your back with your hands behind your head and legs lifted off the ground.\n2. Bring one elbow towards the opposite knee, engaging your obliques.\n3. Return to the starting position and repeat on the other side."
+  },
+  {
+    "name": "Flutter Kicks",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": true,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905710/qc5hhsskynzz2blbxxfe.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/video/upload/v1698905727/raqloipr0nu780alaibv.mp4",
+    "step": "1. Lie on your back with legs extended and hands under your glutes.\n2. Lift your legs a few inches off the ground and perform small, rapid kicks.\n3. Keep your core engaged throughout the movement."
+  },
+  {
+    "name": "Front Lever Hold",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/mc9cunwgwtwsdohfdnjt.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905720/sv7u9qpxi9hvagef0rnc.jpg",
+    "step": "1. Hang from a pull-up bar with an overhand grip.\n2. Lift your legs and bring them parallel to the ground, creating a straight line with your body.\n3. Hold the position, engaging your abdominal and core muscles."
+  },
+  {
+    "name": "Front Lever Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/bpbxwdyumq0wvommvyun.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905718/a4luklcevx22k17utfm7.jpg",
+    "step": "1. Start in a hanging position from a pull-up bar.\n2. Lift your legs towards the ceiling, creating an inverted V shape.\n3. Lower your legs back down to the starting position."
+  },
+  {
+    "name": "Hanging Knee Raise",
+    "muscle": "Abdominals",
+    "equipment": "None",
+    "isvideo": false,
+    "src": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905711/nicsi0bvrdkhxuhxjmj1.jpg",
+    "main": "https://res.cloudinary.com/dtczjjluk/image/upload/v1698905713/jtwlb5obmvzhlmnnl5ad.jpg",
+    "step": "1. Hang from a pull-up bar with an overhand grip.\n2. Lift your knees towards your chest, engaging your abdominal muscles.\n3. Lower your legs back down to the starting position."
+  }
+]

@@ -229,7 +229,10 @@ a {
 }
 
 /* after select exercise */
-
+.mid2{
+  display: flex;
+  flex-direction: column;
+}
 .main-mid2 {
   width: 60%;
   height: 100%;
@@ -248,21 +251,23 @@ a {
   padding: 10px 20px 20px 20px;
   display: flex;
   justify-content: center;
+  flex-shrink: 0;
   width: 100%;
 }
 
 .mid-image2 video {
-  width: 90%;
+  width: 60%;
   border-radius: 15px;
 }
 .mid-image2 img {
-  width: 90%;
+  width: 6  0%;
   border-radius: 15px;
 }
 
 .mid2-info {
   width: 100%;
-  height: 30%;
+  flex-shrink: 1;
+  overflow-y: scroll;
   padding: 10px;
   border-top: 2px solid #929da5;
 }
@@ -271,7 +276,10 @@ a {
   margin: 0;
   font-size: 1.1rem;
 }
-
+.mid2-info  :nth-child(4){
+  font-size: 1rem;
+  color: #929da5;
+}
 .mid2-info span {
   margin-left: 5px;
   font-size: 1rem;
@@ -379,7 +387,8 @@ a {
     display: none;
   }
   .main-mid,
-  .main-mid2 {
+  .main-mid2,
+  .routines-main-mid {
     width: 100%;
     left: 0;
   }
@@ -410,7 +419,7 @@ a {
   }
   .sidenav {
     height: 100%;
-    width: 70%;
+    width: 30%;
     display: none;
   }
   .sidebar {
@@ -420,7 +429,7 @@ a {
   }
 
   .main-mid,
-  .main-mid2 {
+  .main-mid2,.routines-main-mid {
     width: 70%;
     left: 0;
   }
